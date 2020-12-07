@@ -149,7 +149,6 @@
       </section>
     </div>
 
-
     <div  class="hjtabgroups" v-show="industrialRobots">
       <section id="projects-ScaraII" class="spotlight style2 right">
         <span class="image fit"><img src="~/assets/Zippy.png" alt="" style="height: 100vh; width: auto;float: left"/></span>
@@ -232,9 +231,6 @@
       </section>
 
     </div>
-
-
-
 
     <div class="hjtabgroups" v-show="simulatorRobots">
       <section id="projects-Stewart" class="spotlight style3 left">
@@ -438,7 +434,6 @@
       </section>
     </div>
 
-
     <div class="hjtabgroups" v-show="mobileRobots">
       <section id="projects-Virub" class="spotlight style2 right">
         <span class="image fit"><img src="~/assets/Virub PNG.png" alt="" style="height: 100vh; width: auto;float: left"/></span>
@@ -494,7 +489,6 @@
       </section>
 
     </div>
-
 
     <div class="hjtabgroups" v-show="actuatorRobots">
       <section id="projects-LinearSea" class="spotlight style2 right">

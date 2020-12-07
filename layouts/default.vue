@@ -14,8 +14,8 @@
         </ul>
       </nav>
     </header>
-
     <Nuxt />
+
   </div>
 </template>
 

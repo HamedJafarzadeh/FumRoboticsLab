@@ -1,8 +1,6 @@
 <template>
   <div id="page-wrapper">
 
-
-
     <!-- Banner -->
     <section id="banner">
       <div class="content">
@@ -44,102 +42,6 @@
 
     <!-- Projects -->
     <IndexProjects />
-
-
-<!--    <section id="projects" class="spotlight style2 right">-->
-<!--      <span class="image fit"><img src="~/assets/6R PNG.png" alt="" style="height: 100vh; width: auto;float: left"/></span>-->
-<!--      <div class="content">-->
-<!--        <header>-->
-<!--          <h2><b>FUM 6R-20 Industrial Robot</b></h2>-->
-<!--          <p>Nunc commodo accumsan eget id nisi eu col volutpat magna</p>-->
-<!--        </header>-->
-<!--        <p>6R robots are an indispensable hardware in modern day production. Benefiting from high articulation capabilities, they are widely used in factory plants and machinery.  The number of DOF and versatility has made this class of robots highly desirable in manufacturing lines including welding processes, precision placement, and part positioning. Some features of the robot is as follows:-->
-<!--        <li>Six DOF</li>-->
-<!--        <li>Max Payload: 20 Kg</li>-->
-<!--        <li>Max Cartesian Speed: 3 m/s (selected axis)</li>-->
-<!--        <li>Repeatability –best case: ±0.015mm</li>-->
-<!--        <li>Open control architecture for allowing research applications</li>-->
-<!--        <li>Applications: Pick and Place, Packaging, Welding</li>-->
-<!--        </p>-->
-<!--        <ul class="actions">-->
-<!--          <li><a href="#" class="button">Learn More</a></li>-->
-<!--        </ul>-->
-<!--      </div>-->
-<!--      <a href="#three" class="nextButton goto-next scrolly">Next</a>-->
-<!--    </section>-->
-
-    <!-- Three -->
-
-
-
-    <!-- section -->
-
-
-
-    <!-- Section2 -->
-
-
-    <!-- section3 -->
-
-
-    <!-- Section4 -->
-
-
-
-    <!-- Section5 -->
-
-
-    <!-- Section6 -->
-
-
-    <!-- Section6 -->
-
-
-
-    <!-- Section7 -->
-
-
-
-    <!-- Section8 -->
-
-    <!-- Section9 -->
-
-
-
-    <!-- Section10 -->
-
-
-    <!-- Section11 -->
-
-
-
-    <!-- Section12 -->
-
-
-
-    <!-- Section13 -->
-
-
-    <!-- Section14 -->
-
-
-    <!-- Section15 -->
-
-
-
-    <!-- Section16 -->
-
-
-
-    <!-- Section17 -->
-
-
-    <!-- Section18 -->
-
-
-
-    <!-- Section19 -->
-
 
 
     <!-- Four -->
