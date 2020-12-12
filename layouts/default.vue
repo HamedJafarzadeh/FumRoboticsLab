@@ -1,19 +1,7 @@
 <template>
   <div class="main-container">
     <!-- Header -->
-    <header id="header">
-      <h1><img id="logo" src="~/assets/fum-logo.png" height="30px"/></h1>
-      <nav id="nav">
-        <ul>
-          <li><a href="#banner">Home</a></li>
-          <li><a href="#about" class="scrolly">About</a></li>
-          <li><a href="#projects" class="scrolly">Projects</a></li>
-          <li><a href="#researchtopics" class="scrolly">Research topics</a></li>
-          <li><a href="#publications" class="scrolly">Publications</a></li>
-          <li><a href="#join" class="button primary scrolly">Join Us</a></li>
-        </ul>
-      </nav>
-    </header>
+    <HeaderSection/>
     <Nuxt />
 
   </div>
