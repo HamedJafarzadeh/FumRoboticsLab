@@ -1,20 +1,8 @@
 <template>
   <div id="page-wrapper">
 
-    <!-- Banner -->
-    <section id="banner">
-      <div class="content">
-        <header>
-          <h2>FUM Robotics Laboratoary</h2>
-          <p>We <span style="background-color: brown; font-weight:bold; padding: 5px"> bridge</span> the imagination and reality<br/>
-          </p>
-        </header>
-        <span  class="image"><img src="~/assets/Robot.png" alt=""/></span>
-      </div>
-      <a href="#about" class="nextButton goto-next scrolly">Next</a>
-    </section>
+    <FirstSection/>
 
-    <!-- One -->
     <section id="about" class="spotlight style1 bottom">
       <span class="imagemain"><img src="~/assets/lab.jpg" alt="" style="width: 100vw"/></span>
       <div class="content">
@@ -134,8 +122,9 @@
 
 <script>
 import IndexProjects from "@/components/IndexProjects";
+import FirstSection from "@/components/FirstSection";
 export default {
-  components: {IndexProjects},
+  components: {FirstSection, IndexProjects},
   head: {
     script: [
       // { src: '/head.js' },
