@@ -6,7 +6,7 @@
       <br>
       <div class="row">
         <div class="col-12 justify-content-center text-center mx-auto my-auto" >
-          <img src="../../assets/FUM Stewar Mid-size.png" style="width: 40% ; border-radius: 20%">
+          <img src="../../assets/ProjectPictures/fumstewartmidsize.png" style="width: 40% ; border-radius: 20%">
         </div>
       </div>
       <br>

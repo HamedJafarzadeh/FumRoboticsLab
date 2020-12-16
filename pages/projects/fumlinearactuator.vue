@@ -6,7 +6,7 @@
       <br>
       <div class="row">
         <div class="col-12 justify-content-center text-center mx-auto my-auto" >
-          <img src="../../assets/FUM-Linear-Actuator-1.png" style="width: 20% ; border-radius: 20%">
+          <img src="../../assets/ProjectPictures/linearactuator1.png" style="width: 20% ; border-radius: 20%">
         </div>
       </div>
       <br>
