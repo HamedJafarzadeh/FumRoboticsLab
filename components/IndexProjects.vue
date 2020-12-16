@@ -115,7 +115,7 @@
     </div>
 
     <div class="hjtabgroups" v-show="mobileRobots">
-      <IndexProjectItem :is-right="false" project-name="FUM VIRUB 3036"  project-subtitle="Add project Subtitle" project-link="/fumvirub3036" project-picture="Virub.png">
+      <IndexProjectItem :is-right="false" project-name="FUM VIRUB 3036"  project-subtitle="Add project Subtitle" project-link="/fumvirub3036" project-picture="virub.png">
         Add Project Abstract
       </IndexProjectItem>
 

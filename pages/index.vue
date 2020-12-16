@@ -4,7 +4,7 @@
     <FirstSection/>
 
     <section id="about" class="spotlight style1 bottom">
-      <span class="imagemain"><img src="~/assets/lab.jpg" alt="" style="width: 100vw"/></span>
+      <span class="imagemain"><img src="~/assets/lab.jpg" alt="" style="width: 100%"/></span>
       <div class="content">
         <div class="container">
           <div class="row">
@@ -16,7 +16,7 @@
             </div>
             <div class="col-9 col-12-medium">
 
-              <p>The Robotics Laboratory of Ferdowsi University of Mashhad (FUM Robotics) was established in 2010. As one of the most comprehensive centers for multi-disciplinary robotics research in Iran, our lab is dedicated not only to education and research, but also addressing industrial needs. The Center is led by Professor Alireza Akbarzadeh and is composed of academic faculty and researchers, providing undergrad, MSs, and PhD students with necessary tools to enhance their knowledge and working expertise in this field.
+              <p style="text-align: justify">The Robotics Laboratory of Ferdowsi University of Mashhad (FUM Robotics) was established in 2010. As one of the most comprehensive centers for multi-disciplinary robotics research in Iran, our lab is dedicated not only to education and research, but also addressing industrial needs. The Center is led by Professor Alireza Akbarzadeh and is composed of academic faculty and researchers, providing undergrad, MSs, and PhD students with necessary tools to enhance their knowledge and working expertise in this field.
                 The laboratory currently encompasses four specialized interdisciplinary working groups in the fields of medical and rehabilitation robotics, industrial robotic arms, robotic simulators, and mobile platforms. These fields in turn employ the collaborative output of dynamic design and modeling, optimization, control and construction. The lab provides space for on-site robot design, with a dedicated workshop and conference room, and is able to accommodate over 30 attendees.
                 High quality research and productivity is evidenced by satisfactory execution of contracts with a value of 26 billion Rials during the last 6 years. We are one of the most vigorous and highly-equipped robotics laboratories in the country, benefiting from the cooperation of the University's soft computing hub and providing close communication with other researchers in Iranian universities and abroad. Our ambition is to create a focal point for advanced robotics studies by providing world-class research and teaching.</p>
             </div>
@@ -37,47 +37,37 @@
       <div class="container">
         <header class="major">
           <h2>Research Topics</h2>
-          <p>Iaculis ac volutpat vis non enim gravida nisi faucibus posuere arcu consequat</p>
         </header>
         <div class="box alt">
           <div class="row gtr-uniform">
             <section class="col-4 col-6-medium col-12-xsmall">
               <span class="icon solid alt major fa-chart-area"></span>
-              <h3>Assitive and Rehabilitation</h3>
-              <p>Feugiat accumsan lorem eu ac lorem amet accumsan donec. Blandit orci porttitor.</p>
+              <h3>Robot Dynamic</h3>
             </section>
             <section class="col-4 col-6-medium col-12-xsmall">
               <span class="icon solid alt major fa-comment"></span>
-              <h3>Bio</h3>
-              <p>Feugiat accumsan lorem eu ac lorem amet accumsan donec. Blandit orci porttitor.</p>
+              <h3>Robot Control</h3>
             </section>
             <section class="col-4 col-6-medium col-12-xsmall">
               <span class="icon solid alt major fa-flask"></span>
-              <h3>Industrial</h3>
-              <p>Feugiat accumsan lorem eu ac lorem amet accumsan donec. Blandit orci porttitor.</p>
+              <h3>Robot Mechanical & Structural Design</h3>
             </section>
             <section class="col-4 col-6-medium col-12-xsmall">
               <span class="icon solid alt major fa-paper-plane"></span>
-              <h3>Simulator</h3>
-              <p>Feugiat accumsan lorem eu ac lorem amet accumsan donec. Blandit orci porttitor.</p>
+              <h3>Sensor Development & Fusion</h3>
             </section>
             <section class="col-4 col-6-medium col-12-xsmall">
               <span class="icon solid alt major fa-file"></span>
-              <h3>Mobile</h3>
-              <p>Feugiat accumsan lorem eu ac lorem amet accumsan donec. Blandit orci porttitor.</p>
+              <h3>Robotic Rehabilitation & Assistive Strategies</h3>
             </section>
             <section class="col-4 col-6-medium col-12-xsmall">
               <span class="icon solid alt major fa-lock"></span>
-              <h3>Actuator</h3>
-              <p>Feugiat accumsan lorem eu ac lorem amet accumsan donec. Blandit orci porttitor.</p>
+              <h3>Robotic Power Electronic</h3>
+
             </section>
           </div>
         </div>
-        <footer class="major">
-          <ul class="actions special">
-            <li><a href="#" class="button">Magna sed feugiat</a></li>
-          </ul>
-        </footer>
+
       </div>
     </section>
 
