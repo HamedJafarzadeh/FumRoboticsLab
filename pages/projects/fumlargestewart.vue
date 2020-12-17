@@ -19,7 +19,49 @@
         </p>
       </div>
       <div class="row">
-
+        <div class="col-12 justify-content-center text-center mx-auto my-auto" >
+        <h3> Specification </h3>
+          <table style="width: 1300px;">
+            <tbody>
+            <tr>
+              <td style="width: 63px;">&nbsp;Motion</td>
+              <td style="width: 63px;">&nbsp;Yaw&nbsp;&nbsp;</td>
+              <td style="width: 63px;">&nbsp;Pitch&nbsp;&nbsp;</td>
+              <td style="width: 63px;">&nbsp;Roll&nbsp;</td>
+              <td style="width: 63px;">&nbsp;Heave&nbsp;&nbsp;</td>
+              <td style="width: 63px;">&nbsp;Sway&nbsp;&nbsp;</td>
+              <td style="width: 63px;">&nbsp;Surge&nbsp;&nbsp;</td>
+            </tr>
+            <tr>
+              <td style="width: 63px;">Position&nbsp;</td>
+              <td style="width: 23px;">&nbsp;&#177 20 &#176 &nbsp;&nbsp;</td>
+              <td style="width: 10px;">&nbsp;&#177 14 &#176 &nbsp;&nbsp;</td>
+              <td style="width: 15px;">&nbsp;&#177 14 &#176 &nbsp;&nbsp;</td>
+              <td style="width: 15px;">&nbsp;&#177 30 &#176 &nbsp;&nbsp;</td>
+              <td style="width: 15px;">&nbsp;&#177 30 &#176 &nbsp;&nbsp;</td>
+              <td style="width: 15px;">&nbsp;&#177 30 &#176 &nbsp;&nbsp;</td>
+            </tr>
+            <tr>
+              <td style="width: 63px;">&nbsp;Velocity</td>
+              <td style="width: 23px;">&nbsp;25 &#176/s </td>
+              <td style="width: 10px;">&nbsp;20 &#176/s</td>
+              <td style="width: 15px;">&nbsp;20 &#176/s</td>
+              <td style="width: 15px;">&nbsp;0.45 m/s</td>
+              <td style="width: 15px;">&nbsp;0.5 m/s</td>
+              <td style="width: 15px;">&nbsp;0.5 m/s</td>
+            </tr>
+            <tr>
+              <td style="width: 63px;">Acceleration&nbsp;</td>
+              <td style="width: 23px;">&nbsp;180 &#176/s&#178</td>
+              <td style="width: 10px;">&nbsp;180 &#176/s&#178</td>
+              <td style="width: 15px;">&nbsp;180 &#176/s&#178</td>
+              <td style="width: 15px;">&nbsp;3 m/s&#178</td>
+              <td style="width: 15px;">&nbsp;3 m/s&#178</td>
+              <td style="width: 15px;">&nbsp;3 m/s&#178</td>
+            </tr>
+            </tbody>
+          </table>
+        </div>
       </div>
 
       <br>
