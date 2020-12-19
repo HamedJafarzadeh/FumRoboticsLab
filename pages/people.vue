@@ -5,7 +5,7 @@
       <br>
       <div class="row">
         <div class="col-4 justify-content-center text-center mx-auto my-auto" >
-          <img src="../assets/people/ali_akbarzadeh.jpg" style="width: 300px; border-radius: 20%">
+          <img src="../assets/people/ali_akbarzadeh.jpg" style="width: 250px; border-radius: 20%">
         </div>
         <div class="col-8">
           <h3>Alireza Akbarzadeh Tootoonchi</h3>
@@ -19,7 +19,7 @@
             Faculty of Engineering <br>
             Ferdowsi University Of Mashhad (FUM)
             <br>
-            Email: ali_akbarzadeh@um.ac.ir .
+            Email: ali_akbarzadeh@um.ac.ir.
           <p/>
 
 
@@ -199,10 +199,10 @@
         <div class="col-4">
           <img src="../assets/people/overlay.png" style="width: 195px; border-radius: 20%">
           <h5>Arian Makhdoomi</h5>
-          <h5>maleki.amirkhosro@mail.um.ac.ir</h5>
+          <h5>makhdumiaryan@gmail.com</h5>
           <h6>M.Sc. Power Electronic and Electrical Machine Engineering, Ferdowsi university, Mashhad, Iran, (2018/Present)</h6>
           <h6>B.Sc. Electrical Engineering, Ferdowsi University, Mashhad, Iran, (2013-2018)</h6>
-          <h6>Research Interests/Specializations: Electronic Circuit Design, Electrical Machine Design, Power Electronic, Variable-Speed AC drives </h6>
+          <h6>Research Interests/Specializations: Electronic Circuit Design, Electrical Machine Design, Power Electronics, Analog Electronics, Control System Design </h6>
         </div>
       </div>
 
@@ -231,7 +231,7 @@
           <h5>maleki.amirkhosro@mail.um.ac.ir</h5>
           <h6>M.Sc. Biomedical Engineering, Ferdowsi university, Mashhad, Iran, (2018/Present)</h6>
           <h6>B.Sc. Electrical Engineering, Arak university of technology, Arak, Iran, (2014-2018)</h6>
-          <h6>Research Interests/Specializations: artificial intelligence Methods in Vital Signs Analysis for Controlling Rehabilitation Robots, Instrumentation Control and Automation, Medical Image processing </h6>
+          <h6>Research Interests/Specializations: Artificial Intelligence Methods in Vital Signs Analysis for Controlling Rehabilitation Robots, Instrumentation Control and Automation, Medical Image processing </h6>
         </div>
       </div>
 
@@ -252,7 +252,7 @@
           <h5>Arezooslt49@gmail.com</h5>
           <h6>M.Sc. Biomedical Engineering, Islamic Azad University, Mashhad, Iran (2019/Present)</h6>
           <h6>B.Sc. Mechanical Engineering, Islamic Azad University, Mashhad, Iran (2014-2018)</h6>
-          <h6>Research Interests/Specializations: Neurorehabilitation, Biological Signal Processing ,Artificial Neural Network </h6>
+          <h6>Research Interests/Specializations: Neurorehabilitation, Biological Signal Processing, Artificial Neural Network </h6>
         </div>
         <div class="col-4">
           <img src="../assets/people/eskandari.png" style="width: 207px; border-radius: 20%">
@@ -286,9 +286,9 @@
           <img src="../assets/people/salehi.png" style="width: 150px; border-radius: 20%">
           <h5>Mostafa Salehi</h5>
           <h5>mostafa73salehi@gmail.com</h5>
-          <h6>M.Sc. Electronic Engineering,Sajjad University of Technology, Mashhad, Iran, (2018/present)</h6>
-          <h6>B.Sc. Software Engineering, Sajjad University of Technology, Mashhad, Iran, (2014-2018)</h6>
-          <h6>Research Interests/Specializations: Serious Games, Human-Computer Inter </h6>
+          <h6>M.Sc. Computer Network Engineering,Sajjad University of Technology, Mashhad, Iran, (2018/present)</h6>
+          <h6>B.Sc. Software Engineering, Golbahar University of Technology, Mashhad, Iran, (2014-2018)</h6>
+          <h6>Research Interests/Specializations: Robotic Control, Electronic in Robotic </h6>
         </div>
       </div>
 
