@@ -40,28 +40,28 @@
         </header>
         <div class="box alt">
           <div class="row gtr-uniform">
-            <section class="col-4 col-6-medium col-12-xsmall">
-              <span class="icon solid alt major fa-chart-area"></span>
-              <h3>Robot Dynamic</h3>
+           <section class="col-4 col-6-medium col-12-xsmall">
+               <img class="icon solid alt major solid" style="filter: invert();" src="~/assets/icons/dynamic.png"/>
+             <h3>Robot Dynamic</h3>
             </section>
             <section class="col-4 col-6-medium col-12-xsmall">
-              <span class="icon solid alt major fa-comment"></span>
+              <img class="icon solid alt major solid" style="filter: invert();" src="~/assets/icons/control.png"/>
               <h3>Robot Control</h3>
             </section>
             <section class="col-4 col-6-medium col-12-xsmall">
-              <span class="icon solid alt major fa-flask"></span>
+              <img class="icon solid alt major solid" style="filter: invert();" src="~/assets/icons/design.png"/>
               <h3>Robot Mechanical & Structural Design</h3>
             </section>
             <section class="col-4 col-6-medium col-12-xsmall">
-              <span class="icon solid alt major fa-paper-plane"></span>
+              <img class="icon solid alt major solid" style="filter: invert();" src="~/assets/icons/sensor.png"/>
               <h3>Sensor Development & Fusion</h3>
             </section>
             <section class="col-4 col-6-medium col-12-xsmall">
-              <span class="icon solid alt major fa-file"></span>
+              <img class="icon solid alt major solid" style="filter: invert();" src="~/assets/icons/rehab.png"/>
               <h3>Robotic Rehabilitation & Assistive Strategies</h3>
             </section>
             <section class="col-4 col-6-medium col-12-xsmall">
-              <span class="icon solid alt major fa-lock"></span>
+              <img class="icon solid alt major solid" style="filter: invert();" src="~/assets/icons/power.png"/>
               <h3>Robotic Power Electronic</h3>
 
             </section>
