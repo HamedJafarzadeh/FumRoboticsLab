@@ -78,20 +78,37 @@
         <div class="container">
           <header>
             <h2>Recent Publications</h2>
-            <p>Nascetur eu nibh vestibulum amet gravida nascetur praesent</p>
           </header>
           <div class="row  justify-content-center text-center">
             <div class="col-12  justify-content-center text-center">
               <hr>
               <ul style="text-decoration: none; list-style: none">
                 <li>
-                  <h4><span class="icon solid  fa-book" style="margin-right: 10px"></span> Sample Article Title</h4>
-                  <p> <span class="icon solid  fa-users" style="margin-right: 10px"></span>Sample Author 1- Sample Author 2- Sample Author 3</p>
+                  <h4><span class="icon solid  fa-book" style="margin-right: 10px"></span> Assist-As-Needed control of a hip exoskeleton based on a novel
+                    strength index</h4>
+                  <p> <span class="icon solid  fa-users" style="margin-right: 10px"></span>Naeim Naghavi- Alireza Akbarzadeh- S. Mohammad Tahamipour-Z.- Iman Kardan</p>
                 </li>
                 <li>
-                  <h4><span class="icon solid  fa-book" style="margin-right: 10px"></span> Sample Article Title 2</h4>
-                  <p> <span class="icon solid  fa-users" style="margin-right: 10px"></span>Sample Author 1- Sample Author 2- Sample Author 3</p>
+                  <h4><span class="icon solid  fa-book" style="margin-right: 10px"></span> Parametric design and multi-objective optimization of a general 6- P US parallel manipulator</h4>
+                  <p> <span class="icon solid  fa-users" style="margin-right: 10px"></span>S. Nader Nabavi- Morteza Shariatee- Javad Enferadi- Alireza Akbarzadeh</p>
                 </li>
+
+                <li>
+                  <h4><span class="icon solid  fa-book" style="margin-right: 10px"></span> Robotic hand: A review on linkage-driven finger mechanisms of prosthetic hands and evaluation of the performance criteria</h4>
+                  <p> <span class="icon solid  fa-users" style="margin-right: 10px"></span>S. Reza Kashef- Samane Amini- Alireza Akbarzadeh</p>
+                </li>
+
+                <li>
+                  <h4><span class="icon solid  fa-book" style="margin-right: 10px"></span> A Human Interactive Hybrid FES-Robotic System Applicable to Improvement of Foot Drop after Stroke: Case Report of a Patient with Chronic Stroke</h4>
+                  <p> <span class="icon solid  fa-users" style="margin-right: 10px"></span>Hamid Reza Kobravi- Yadollah Farzaneh- Milad Farsyar Majd-  Alireza Mania Sheikh</p>
+                </li>
+
+                <li>
+                  <h4><span class="icon solid  fa-book" style="margin-right: 10px"></span> Robust Output Feedback Assistive Control of a Compliantly
+                    Actuated Knee Exoskeleton</h4>
+                  <p> <span class="icon solid  fa-users" style="margin-right: 10px"></span>Iman Kardan- Alireza Akbarzadeh</p>
+                </li>
+
               </ul>
             </div>
           </div>
