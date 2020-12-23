@@ -4,7 +4,7 @@
       <h2> FUM Virub 3036 </h2>
       <div class="row">
         <div class="col-12 justify-content-center text-center mx-auto my-auto" >
-          <img src="../../assets/ProjectPictures/Virub.png" style="width: 30% ; border-radius: 20%">
+          <img src="../../assets/ProjectPictures/fumvirub.png" style="width: 30% ; border-radius: 20%">
         </div>
       </div>
       <br>
