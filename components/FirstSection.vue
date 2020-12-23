@@ -14,7 +14,7 @@
       <b-row class="" style="min-width: 100%">
         <b-col lg="6" md="6" sm="12" class="pl-5 my-auto align-content-center text-center">
           <header>
-            <h2>FUM Robotics Laboratoary</h2>
+            <h2>FUM Robotics Laboratory</h2>
             <p>We <span style="background-color: brown; font-weight:bold; padding: 5px"> bridge</span> the imagination and reality<br/>
             </p>
           </header>
@@ -91,7 +91,6 @@ name: "FirstSection",
 .videodiv{
   position: absolute;
   overflow: hidden;
-  opacity: 100%;
   min-width: 100%;
   min-height: 100%;
   width: auto;
@@ -100,7 +99,7 @@ name: "FirstSection",
 #myVideo {
   /*position: absolute;*/
   /*overflow: hidden;*/
-  opacity: 10%;
+  opacity: 0.1;
   top: 50%;
   left: 50%;
   min-width: 100%;
