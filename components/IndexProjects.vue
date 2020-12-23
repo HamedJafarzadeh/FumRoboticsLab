@@ -67,7 +67,7 @@
 
     <div class="hjtabgroups" v-show="simulatorRobots">
 
-      <IndexProjectItem :is-right="false" project-name="FUM Industrial Large Size Stewart"  project-subtitle="" project-link="/fumindustrialscara" project-picture="NoPic.png">
+      <IndexProjectItem :is-right="false" project-name="FUM Industrial Large Size Stewart"  project-subtitle="" project-link="/fumindustrialscara" project-picture="large-stewart.jpg">
         Large 6-DoF parallel manipulator as a motion simulator
       </IndexProjectItem>
 

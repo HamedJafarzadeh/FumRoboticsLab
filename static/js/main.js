@@ -8,7 +8,6 @@
 	var	$window = $(window),
 		$body = $('body');
 
-
     $(".nextButton").attr("href", function(){
       return "#"+$(this).parent().next("section").attr("id");
     });
@@ -49,7 +48,7 @@
 			$(
 				'<div id="titleBar">' +
 					'<a href="#navPanel" class="toggle"></a>' +
-					'<span class="title">' + $('#logo').html() + '</span>' +
+					'<span class="title">' + $('#logospan').html() + '</span>' +
 				'</div>'
 			)
 				.appendTo($body);

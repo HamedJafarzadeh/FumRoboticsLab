@@ -198,7 +198,7 @@
         <h6>Research Interests/Specializations: Machine Learning, Reinforcement Learning, Vision, Programming, Control, Advanced Robotics </h6>
       </div>
         <div class="col-4">
-          <img src="../assets/people/overlay.png" style="width: 195px; border-radius: 20%">
+          <img src="../assets/people/blankprofile.png" style="width: 195px; border-radius: 20%">
           <h5>Mohammad Rasool Vaezi</h5>
           <h5>mr_vaezi@mail.um.ac.ir</h5>
           <h6>Ph.D. Electronic Control Engineering, Ferdowsi University, Mashhad, Iran, <br> (2020/present)</h6>

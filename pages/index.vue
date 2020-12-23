@@ -118,9 +118,35 @@
 
     <!-- Footer -->
     <footer id="footer">
+      <div class="row">
+        <div class="col-lg-4 offset-lg-4 text-center">
+          <label for="emailSubscribe">Subscribe for latest news from us!</label>
+          <!-- Begin Mailchimp Signup Form -->
+          <div id="mc_embed_signup" >
+            <form action="https://fumrobotics.us7.list-manage.com/subscribe/post?u=d474a9136ae52aac644d9a47a&amp;id=4267b78c35" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+              <div id="mc_embed_signup_scroll" class="input-group">
+                <input type="email" value="" name="EMAIL" class="email form-control" id="mce-EMAIL" placeholder="Email Address" required>
+                <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_d474a9136ae52aac644d9a47a_4267b78c35" tabindex="-1" value=""></div>
+                <button type="submit" class="btn btn-primary">Subscribe</button>
+              </div>
+            </form>
+            <small id="emailHelp" class="form-text">We'll never share your email with anyone else.</small>
+          </div>
+
+          <!--End mc_embed_signup-->
+<!--          <form>-->
+<!--            <div class="input-group">-->
+<!--              <input type="text" class="form-control" id="emailSubscribe" placeholder="Enter your email address">-->
+<!--              <button type="submit" class="btn btn-primary">Subscribe</button>-->
+<!--            </div>-->
+<!--            <small id="emailHelp" class="form-text">We'll never share your email with anyone else.</small>-->
+<!--          </form>-->
+        </div>
+      </div>
       <ul class="copyright">
         <li>&copy; FUM Robotics Lab. All rights reserved.</li>
-        <li>Design: <a href="http://html5up.net">HTML5 UP </a> -  <a href="http://hamedj.ir"> Edited by Hamed Jafarzadeh</a></li>
+        <li>Design: <a href="http://html5up.net">HTML5 UP </a> -  <a href="http://hamedj.ir"> Edited by Hamed Jafarzadeh</a> & Soroush Ahoye Atashin</li>
       </ul>
     </footer>
 
@@ -132,20 +158,6 @@ import IndexProjects from "@/components/IndexProjects";
 import FirstSection from "@/components/FirstSection";
 export default {
   components: {FirstSection, IndexProjects},
-  head: {
-    script: [
-      // { src: '/head.js' },
-      // Supported since Nuxt 1.0
-      { src: '/js/jquery.scrolly.min.js', body: true },
-      { src: '/js/jquery.dropotron.min.js', body: true },
-      { src: '/js/jquery.scrollex.min.js', body: true },
-      { src: '/js/browser.min.js', body: true },
-      { src: '/js/breakpoints.min.js', body: true },
-      { src: '/js/util.js', body: true },
-      { src: '/js/main.js', body: true },
-      // { src: '/defer.js', defer: '' }
-    ]
-  }
 }
 
 // import Vue from 'vue'
