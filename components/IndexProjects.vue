@@ -47,7 +47,7 @@
         Research grade SCARA arm
       </IndexProjectItem>
 
-      <IndexProjectItem :is-right="true" project-name="FUM Industrial SCARA Robot"  project-subtitle="" project-link="/fumscara" project-picture="scara.png">
+      <IndexProjectItem :is-right="true" project-name="FUM Industrial SCARA Robot"  project-subtitle="" project-link="/fumindustrialscara" project-picture="scara.png">
         Industrial grade SCARA arm
       </IndexProjectItem>
 
@@ -84,7 +84,7 @@
       </IndexProjectItem>
 
 
-      <IndexProjectItem :is-right="false" project-name="FUM LP Simulator"  project-subtitle="" project-link="/fumlp" project-picture="lpsimulator.png">
+      <IndexProjectItem :is-right="false" project-name="FUM LP Simulator"  project-subtitle="" project-link="/fumLPsim" project-picture="lpsimulator.png">
         large 6-DoF parallel manipulator as a motion simulator
       </IndexProjectItem>
 
@@ -92,7 +92,7 @@
     </div>
 
     <div class="hjtabgroups" v-show="mobileRobots">
-      <IndexProjectItem :is-right="false" project-name="FUM VIRUB 3036"  project-subtitle="" project-link="/fumvirub3036" project-picture="virub.png">
+      <IndexProjectItem :is-right="false" project-name="FUM VIRUB 3036"  project-subtitle="" project-link="/fumvirub3036" project-picture="fumvirub.png">
         An ultraviolet radiation autonomous platform for indoors disinfection
       </IndexProjectItem>
 
