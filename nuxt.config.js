@@ -11,7 +11,7 @@ export default {
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { hid: 'description', name: 'description', content: '' },
       { name: 'og:url', content: 'fumrobotics.ir' },
-      { name: 'og:title', content: 'Hamed blog' },
+      { name: 'og:title', content: 'FUM Robotics Lab' },
       { name: 'og:description', content: 'I am computer and electronics engineer with over 5 years of software and hardware programming experiences in industry and academic projects' },
       { name: 'og:image', content: 'imgs/blogPicture.jpg' },
     ],
@@ -20,6 +20,8 @@ export default {
     ],
     script :[
       {src: '/js/jquery.min.js'},
+      {src:'https://www.googletagmanager.com/gtag/js?id=G-488P25G4VX', async:true},
+      {src: '/js/googletag.js'}
     ]
   },
 
@@ -50,10 +52,29 @@ export default {
   modules: [
     // https://go.nuxtjs.dev/bootstrap
     'bootstrap-vue/nuxt',
-    '@nuxt/content',
+    // '@nuxt/content',
+    '@nuxtjs/sitemap',
     '@nuxtjs/axios'
   ],
 
+  sitemap: {
+    hostname: 'https://fumrobotics.ir',
+    gzip: true,
+    // exclude: [
+    //   '/secret',
+    //   '/admin/**'
+    // ],
+    // routes: [
+    //   '/page/1',
+    //   '/page/2',
+    //   {
+    //     url: '/page/3',
+    //     changefreq: 'daily',
+    //     priority: 1,
+    //     lastmod: '2017-06-30T13:30:00.000Z'
+    //   }
+    // ]
+  },
   fontawesome: {
     imports: [
       {
