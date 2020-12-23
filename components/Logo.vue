@@ -15,15 +15,6 @@
   </svg>
 </template>
 
-<style>
-.NuxtLogo {
-  animation: 1s appear;
-  margin: auto;
-}
+<style scoped>
 
-@keyframes appear {
-  0% {
-    opacity: 0;
-  }
-}
 </style>

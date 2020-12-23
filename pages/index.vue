@@ -159,11 +159,8 @@ import FirstSection from "@/components/FirstSection";
 export default {
   components: {FirstSection, IndexProjects},
 }
-
-// import Vue from 'vue'
-// export default Vue.extend({})
 </script>
 
-<style>
+<style scoped>
 
 </style>

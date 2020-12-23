@@ -91,7 +91,6 @@ name: "FirstSection",
 .videodiv{
   position: absolute;
   overflow: hidden;
-  opacity: 100%;
   min-width: 100%;
   min-height: 100%;
   width: auto;
@@ -100,7 +99,7 @@ name: "FirstSection",
 #myVideo {
   /*position: absolute;*/
   /*overflow: hidden;*/
-  opacity: 10%;
+  opacity: 0.1;
   top: 50%;
   left: 50%;
   min-width: 100%;
