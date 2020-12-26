@@ -42,7 +42,7 @@
           <div class="row gtr-uniform">
             <section class="col-4 col-6-medium col-12-xsmall">
               <span class="icon solid alt major fa-chart-area"></span>
-              <h3>Robot Dynamic</h3>
+              <h3>Robot Dynamics</h3>
             </section>
             <section class="col-4 col-6-medium col-12-xsmall">
               <span class="icon solid alt major fa-comment"></span>
@@ -99,8 +99,8 @@
                 </li>
 
                 <li>
-                  <h4><span class="icon solid  fa-book" style="margin-right: 10px"></span> A Human Interactive Hybrid FES-Robotic System Applicable to Improvement of Foot Drop after Stroke: Case Report of a Patient with Chronic Stroke</h4>
-                  <p> <span class="icon solid  fa-users" style="margin-right: 10px"></span>Hamid Reza Kobravi- Yadollah Farzaneh- Milad Farsyar Majd-  Alireza Mania Sheikh</p>
+                  <h4><span class="icon solid  fa-book" style="margin-right: 10px"></span> Inverse dynamics analysis of a general spherical star-triangle parallel manipulator using principle of virtual work</h4>
+                  <p> <span class="icon solid  fa-users" style="margin-right: 10px"></span>Javad Enferadi- Alireza Akbarzadeh Tootoonchi</p>
                 </li>
 
                 <li>

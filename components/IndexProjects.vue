@@ -16,7 +16,7 @@
       <IndexProjectItem  :is-right="true" project-name="FUM ExoSkeleton - II"  project-subtitle="" project-link="/fumexoskeleton1" project-picture="exo2.png" >
         Double joint Light weight Lower limb exoskeleton for rehabilitation
       </IndexProjectItem>
-      <IndexProjectItem :is-right="false" project-name="FUM Exoskeleton - I"  project-subtitle="" project-link="/fumexoskeleton2" project-picture="exo1p.png">
+      <IndexProjectItem :is-right="false" project-name="FUM Exoskeleton - I"  project-subtitle="" project-link="/fumexoskeleton2" project-picture="Exo1.png">
         a hard, laminated plastic shell that provides the weight-bearing support
 
       </IndexProjectItem>
@@ -43,7 +43,7 @@
 
     <div  class="hjtabgroups" v-show="industrialRobots">
 
-      <IndexProjectItem :is-right="false" project-name="FUM SCARA II"  project-subtitle="" project-link="/fumscara2" project-picture="NoPic.png">
+      <IndexProjectItem :is-right="false" project-name="FUM SCARA II"  project-subtitle="" project-link="/fumscara2" project-picture="scara2.png">
         Research grade SCARA arm
       </IndexProjectItem>
 
