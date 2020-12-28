@@ -16,7 +16,7 @@
       <IndexProjectItem  :is-right="true" project-name="FUM ExoSkeleton - II"  project-subtitle="" project-link="/fumexoskeleton1" project-picture="exo2.png" >
         Double joint Light weight Lower limb exoskeleton for rehabilitation
       </IndexProjectItem>
-      <IndexProjectItem :is-right="false" project-name="FUM Exoskeleton - I"  project-subtitle="" project-link="/fumexoskeleton2" project-picture="Exo1.png">
+      <IndexProjectItem :is-right="false" project-name="FUM Exoskeleton - I"  project-subtitle="" project-link="/fumexoskeleton2" project-picture="exo1.png">
         a hard, laminated plastic shell that provides the weight-bearing support
 
       </IndexProjectItem>
