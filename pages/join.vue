@@ -17,9 +17,11 @@
         <li>Biomedical engineering</li>
       </ul>
 
-      <b>Requirements:</b> <br>Outstanding grades at a top university, experience in relevant field (industrial robots, mobile manipulation, actuation and design, control, learning, planning), good programming skills in C++ and ROS
+      <b>Requirements:</b> <br style="text-align: justify">Outstanding grades at a top university, experience in relevant field (industrial robots, mobile manipulation, actuation and design, control, learning, planning), good programming skills in C++ and ROS. <br>
 
-      Please send your application (CV, sample projects and motivation letter) to <span style="color: #39c088">fumroboticslab[at]gmail.com</span>. Incomplete applications will not be evaluated.
+      Please send your application (CV, sample projects and motivation letter) to <span style="color: #39c088">fumroboticslab@gmail.com</span>. Incomplete applications will not be evaluated.
+      <br>
+      <br>
   </div>
   </div>
 </template>

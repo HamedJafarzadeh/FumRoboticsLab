@@ -152,7 +152,7 @@
           <h5>amini.samane@ymail.com</h5>
 
           <h6>Ph.D. Mechanical Engineering, Ferdowsi University, Mashhad, Iran, <br> (2017/present)</h6>
-          <h6>M.Sc. Mechanical Engineering, Ferdowsi University, Mashhad, Iran, (2011-2013)</h6>
+          <h6>M.Sc. Mechanical Engineering, Ferdowsi University, Mashhad, Iran, <br> (2011-2013)</h6>
 
           <h6>Research Interests/Specializations: Medical and Rehabilitation Robotics, Bio-Inspired Robot, Assistive
             control, Dynamic and Control Humanoid Robots, Assistive Devices </h6>
@@ -406,7 +406,7 @@
       </b-row>
       <b-row class="text-center">
         <b-col>
-          <div class="col-4">
+          <div class="col-lg-4">
             <img src="../assets/people/hamedjafarzadeh.JPG" style="width: 150px; border-radius: 20%">
             <h5>Hamed Jafarzadeh</h5>
             <h5>hamed.jafarzadeh@tyndall.ie</h5>
