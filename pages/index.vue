@@ -40,28 +40,28 @@
         </header>
         <div class="box alt">
           <div class="row gtr-uniform">
-            <section class="col-4 col-6-medium col-12-xsmall">
-              <span class="icon solid alt major fa-chart-area"></span>
-              <h3>Robot Dynamics</h3>
+           <section class="col-4 col-6-medium col-12-xsmall">
+               <img class="icon solid alt major solid" style="filter: invert();" src="~/assets/icons/dynamic.png"/>
+             <h3>Robot Dynamics</h3>
             </section>
             <section class="col-4 col-6-medium col-12-xsmall">
-              <span class="icon solid alt major fa-comment"></span>
+              <img class="icon solid alt major solid" style="filter: invert();" src="~/assets/icons/control.png"/>
               <h3>Robot Control</h3>
             </section>
             <section class="col-4 col-6-medium col-12-xsmall">
-              <span class="icon solid alt major fa-flask"></span>
+              <img class="icon solid alt major solid" style="filter: invert();" src="~/assets/icons/design.png"/>
               <h3>Robot Mechanical & Structural Design</h3>
             </section>
             <section class="col-4 col-6-medium col-12-xsmall">
-              <span class="icon solid alt major fa-paper-plane"></span>
+              <img class="icon solid alt major solid" style="filter: invert();" src="~/assets/icons/sensor.png"/>
               <h3>Sensor Development & Fusion</h3>
             </section>
             <section class="col-4 col-6-medium col-12-xsmall">
-              <span class="icon solid alt major fa-file"></span>
+              <img class="icon solid alt major solid" style="filter: invert();" src="~/assets/icons/rehab.png"/>
               <h3>Robotic Rehabilitation & Assistive Strategies</h3>
             </section>
             <section class="col-4 col-6-medium col-12-xsmall">
-              <span class="icon solid alt major fa-lock"></span>
+              <img class="icon solid alt major solid" style="filter: invert();" src="~/assets/icons/power.png"/>
               <h3>Robotic Power Electronic</h3>
 
             </section>
@@ -77,36 +77,36 @@
       <div class="content">
         <div class="container">
           <header>
-            <h2>Recent Publications</h2>
+            <h2><fa :icon="['fa','book']"style="margin-right: 10px"/> Recent Publications</h2>
           </header>
           <div class="row  justify-content-center text-center">
             <div class="col-12  justify-content-center text-center">
               <hr>
               <ul style="text-decoration: none; list-style: none">
                 <li>
-                  <h4><span class="icon solid  fa-book" style="margin-right: 10px"></span> Assist-As-Needed control of a hip exoskeleton based on a novel
+                  <h4> <fa :icon="['fa','book']"style="margin-right: 10px"/> Assist-As-Needed control of a hip exoskeleton based on a novel
                     strength index</h4>
-                  <p> <span class="icon solid  fa-users" style="margin-right: 10px"></span>Naeim Naghavi- Alireza Akbarzadeh- S. Mohammad Tahamipour-Z.- Iman Kardan</p>
+                  <p> <fa :icon="['fa','users']"style="margin-right: 10px"/> Naeim Naghavi- Alireza Akbarzadeh- S. Mohammad Tahamipour-Z.- Iman Kardan</p>
                 </li>
                 <li>
-                  <h4><span class="icon solid  fa-book" style="margin-right: 10px"></span> Parametric design and multi-objective optimization of a general 6- P US parallel manipulator</h4>
-                  <p> <span class="icon solid  fa-users" style="margin-right: 10px"></span>S. Nader Nabavi- Morteza Shariatee- Javad Enferadi- Alireza Akbarzadeh</p>
-                </li>
-
-                <li>
-                  <h4><span class="icon solid  fa-book" style="margin-right: 10px"></span> Robotic hand: A review on linkage-driven finger mechanisms of prosthetic hands and evaluation of the performance criteria</h4>
-                  <p> <span class="icon solid  fa-users" style="margin-right: 10px"></span>S. Reza Kashef- Samane Amini- Alireza Akbarzadeh</p>
+                  <h4><fa :icon="['fa','book']"style="margin-right: 10px"/>  Parametric design and multi-objective optimization of a general 6- P US parallel manipulator</h4>
+                  <p><fa :icon="['fa','users']"style="margin-right: 10px"/> S. Nader Nabavi- Morteza Shariatee- Javad Enferadi- Alireza Akbarzadeh</p>
                 </li>
 
                 <li>
-                  <h4><span class="icon solid  fa-book" style="margin-right: 10px"></span> Inverse dynamics analysis of a general spherical star-triangle parallel manipulator using principle of virtual work</h4>
-                  <p> <span class="icon solid  fa-users" style="margin-right: 10px"></span>Javad Enferadi- Alireza Akbarzadeh Tootoonchi</p>
+                  <h4><fa :icon="['fa','book']"style="margin-right: 10px"/> Robotic hand: A review on linkage-driven finger mechanisms of prosthetic hands and evaluation of the performance criteria</h4>
+                  <p><fa :icon="['fa','users']"style="margin-right: 10px"/>S. Reza Kashef- Samane Amini- Alireza Akbarzadeh</p>
                 </li>
 
                 <li>
-                  <h4><span class="icon solid  fa-book" style="margin-right: 10px"></span> Robust Output Feedback Assistive Control of a Compliantly
+                  <h4><fa :icon="['fa','book']"style="margin-right: 10px"/>Inverse dynamics analysis of a general spherical star-triangle parallel manipulator using principle of virtual work</h4>
+                  <p><fa :icon="['fa','users']"style="margin-right: 10px"/>Javad Enferadi- Alireza Akbarzadeh Tootoonchi</p>
+                </li>
+
+                <li>
+                  <h4><fa :icon="['fa','book']"style="margin-right: 10px"/> Robust Output Feedback Assistive Control of a Compliantly
                     Actuated Knee Exoskeleton</h4>
-                  <p> <span class="icon solid  fa-users" style="margin-right: 10px"></span>Iman Kardan- Alireza Akbarzadeh</p>
+                  <p><fa :icon="['fa','users']"style="margin-right: 10px"/>Iman Kardan- Alireza Akbarzadeh</p>
                 </li>
 
               </ul>
@@ -118,9 +118,26 @@
 
     <!-- Footer -->
     <footer id="footer">
+      <div class="row">
+        <div class="col-lg-4 offset-lg-4 text-center">
+          <label for="emailSubscribe">Subscribe for latest news from us!</label>
+          <!-- Begin Mailchimp Signup Form -->
+          <div id="mc_embed_signup" >
+            <form action="https://fumrobotics.us7.list-manage.com/subscribe/post?u=d474a9136ae52aac644d9a47a&amp;id=4267b78c35" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+              <div id="mc_embed_signup_scroll" class="input-group">
+                <input type="email" value="" name="EMAIL" class="email form-control" id="mce-EMAIL" placeholder="Email Address" required>
+                <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_d474a9136ae52aac644d9a47a_4267b78c35" tabindex="-1" value=""></div>
+                <button type="submit" class="btn btn-primary">Subscribe</button>
+              </div>
+            </form>
+            <small id="emailHelp" class="form-text">We'll never share your email with anyone else.</small>
+          </div>
+        </div>
+      </div>
       <ul class="copyright">
         <li>&copy; FUM Robotics Lab. All rights reserved.</li>
-        <li>Design: <a href="http://html5up.net">HTML5 UP </a> -  <a href="http://hamedj.ir"> Edited by Hamed Jafarzadeh</a></li>
+        <li>Design: <a href="http://html5up.net">HTML5 UP </a> -  <a href="http://hamedj.ir"> Edited by Hamed Jafarzadeh</a> & Soroush Ahoye Atashin</li>
       </ul>
     </footer>
 
@@ -132,26 +149,9 @@ import IndexProjects from "@/components/IndexProjects";
 import FirstSection from "@/components/FirstSection";
 export default {
   components: {FirstSection, IndexProjects},
-  head: {
-    script: [
-      // { src: '/head.js' },
-      // Supported since Nuxt 1.0
-      { src: '/js/jquery.scrolly.min.js', body: true },
-      { src: '/js/jquery.dropotron.min.js', body: true },
-      { src: '/js/jquery.scrollex.min.js', body: true },
-      { src: '/js/browser.min.js', body: true },
-      { src: '/js/breakpoints.min.js', body: true },
-      { src: '/js/util.js', body: true },
-      { src: '/js/main.js', body: true },
-      // { src: '/defer.js', defer: '' }
-    ]
-  }
 }
-
-// import Vue from 'vue'
-// export default Vue.extend({})
 </script>
 
-<style>
+<style scoped>
 
 </style>

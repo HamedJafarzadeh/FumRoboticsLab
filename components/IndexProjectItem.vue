@@ -11,7 +11,7 @@
             <slot/>
           </div>
           <ul class="actions" style="margin-top: 20px">
-            <nuxt-link :to="`${this.ProjectLink}`" class="button">Learn More</nuxt-link>
+            <nuxt-link :to="`/projects${this.ProjectLink}`" class="button">Learn More</nuxt-link>
           </ul>
         </b-container>
       </b-col>
