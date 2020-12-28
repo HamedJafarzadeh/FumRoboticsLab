@@ -10,10 +10,10 @@ export default {
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { hid: 'description', name: 'description', content: '' },
-      { name: 'og:url', content: 'fumrobotics.ir' },
+      { name: 'og:url', content: 'www.fumrobotics.ir' },
       { name: 'og:title', content: 'FUM Robotics Lab' },
-      { name: 'og:description', content: 'I am computer and electronics engineer with over 5 years of software and hardware programming experiences in industry and academic projects' },
-      { name: 'og:image', content: 'imgs/blogPicture.jpg' },
+      { name: 'og:description', content: 'The Robotics Laboratory of Ferdowsi University of Mashhad (FUM Robotics) was established in 2010. As one of the most comprehensive centers for multi-disciplinary robotics research in Iran, our lab is dedicated not only to education and research, but also addressing industrial needs.' },
+      { name: 'og:image', content: 'imgs/fum-logo.png' },
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
