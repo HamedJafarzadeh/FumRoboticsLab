@@ -37,9 +37,13 @@
 <br>
       <br>
 
+
+
+      <social-videos youtube-i-d="QDMqJOwbw1I" aparat-i-d="mGs03"/>
+
+      <div>
+
       </div>
-
-
 
       <br>
       <br>
@@ -49,8 +53,10 @@
 </template>
 
 <script>
+import SocialVideos from "@/components/socialVideos";
 export default {
-name: "fum6r"
+name: "fum6r",
+  components: {SocialVideos}
 }
 </script>
 

@@ -403,7 +403,6 @@
         </b-col>
       </b-row>
       <b-row class="text-center">
-        <b-col>
           <div class="col-lg-4">
             <img src="../assets/people/hamedjafarzadeh.JPG" style="width: 150px; border-radius: 20%">
             <h5>Hamed Jafarzadeh</h5>
@@ -413,8 +412,30 @@
             <h6>B.Sc. Computer Hardware Engineering, Ferdowsi University of Mashhad, Iran <br> (2013-2018)</h6>
             <h6>Research Interests/Specializations: Electronics, Software, Miniatruized Devices, Mobile Robots, Robotic Control, Biomedical Devices </h6>
           </div>
-        </b-col>
+        <div class="col-lg-4">
+          <img src="../assets/people/sinadarivishi.jpg" style="width: 150px; border-radius: 20%">
+          <h5>Sina Darvishi</h5>
+          <h5>sinadarvi@gmail.com</h5>
+          <h6>B.Sc. Computer Hardware Engineering, Ferdowsi University of Mashhad, Iran <br> (2013-2018)</h6>
+          <h6>Research Interests/Specializations: Android Developer, Software Developer </h6>
+        </div>
+        <div class="col-lg-4">
+          <img src="../assets/people/farsadbabazadeh.jpg" style="width: 150px; border-radius: 20%">
+          <h5>Farsad Babazadeh</h5>
+          <h5>farsad.babazadeh@gmail.com</h5>
+          <h6> M.Eng. Engineering Sciences with a Focus on Automation Technology, TH-Rosenheim, Germany <br> (2017-present)</h6>
+          <h6>B.Sc. Mechanical Engineering, Islamic Azad University of Mashhad, Iran <br> (2011-2016)</h6>
+          <h6>Research Interests/Specializations: Mechanical Design of Machinery and Industrial Robots, (Additive) Manufacturing Technologies, Industry 4.0, Biomechanical Devices</h6>
+        </div>
+
       </b-row>
+    </div>
+
+
+    <div class="row mt-5 vw-100">
+      <div class="col text-center justify-content-center">
+        Caught a mistake or want to add or edit this page? <a href="https://github.com/HamedJafarzadeh/FumRoboticsLab">Edit this page on Github!</a>
+      </div>
     </div>
   </div>
 </template>
