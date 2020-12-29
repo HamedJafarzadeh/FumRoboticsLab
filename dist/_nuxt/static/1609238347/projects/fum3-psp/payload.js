@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/projects/fum3-psp", {data:[{}],fetch:[],mutations:void 0});

@@ -37,10 +37,9 @@
 <br>
       <br>
       <div class="col-12 justify-content-center text-center mx-auto my-auto" >
-      <video  style="alignment: center" controls>
-        <source src="../../assets/6dof.MP4" type="video/mp4">
-      </video>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/QDMqJOwbw1I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </div>
+
 
 
 

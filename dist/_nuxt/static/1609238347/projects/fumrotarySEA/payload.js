@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/projects/fumrotarySEA", {data:[{}],fetch:[],mutations:void 0});

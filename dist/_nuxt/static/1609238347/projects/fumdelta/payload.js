@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/projects/fumdelta", {data:[{}],fetch:[],mutations:void 0});
