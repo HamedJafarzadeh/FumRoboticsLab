@@ -20,10 +20,10 @@
         a hard, laminated plastic shell that provides the weight-bearing support
 
       </IndexProjectItem>
-      <IndexProjectItem :is-right="true" project-name="FUM Knee Exoskeleton"  project-subtitle="" project-link="/fumkneeexoskeleton" project-picture="fum-knee.jpg">
+      <IndexProjectItem :is-right="true" project-name="FUM Knee Exoskeleton"  project-subtitle="" project-link="/fumkneeexoskeleton" project-picture="fum-knee.png">
         Series elastic actuator based knee orthosis
       </IndexProjectItem>
-      <IndexProjectItem :is-right="false" project-name="FUM Knee Physio"  project-subtitle="" project-link="/fumkneeexoskeleton" project-picture="Physio.jpg">
+      <IndexProjectItem :is-right="false" project-name="FUM Knee Physio"  project-subtitle="" project-link="/fumkneephysio" project-picture="Physio.png">
         Knee rehabilitation enabling game based therapy
       </IndexProjectItem>
 
@@ -36,14 +36,14 @@
         Biologically inspired hand with articulated finger motion
       </IndexProjectItem>
 
-      <IndexProjectItem :is-right="true" project-name="FUM Bionic Hand L-I"  project-subtitle="" project-link="/fumbionichand-L1" project-picture="NoPic.png">
+      <IndexProjectItem :is-right="true" project-name="FUM Bionic Hand L-I"  project-subtitle="" project-link="/fumbionichand-L1" project-picture="FUMbionichandL1.png">
         7 DoF bionic hand prosthetic with independent finger manipulation
       </IndexProjectItem>
     </div>
 
     <div  class="hjtabgroups" v-show="industrialRobots">
 
-      <IndexProjectItem :is-right="false" project-name="FUM SCARA II"  project-subtitle="" project-link="/fumscara2" project-picture="NoPic.png">
+      <IndexProjectItem :is-right="false" project-name="FUM SCARA II"  project-subtitle="" project-link="/fumscara2" project-picture="scara2.png">
         Research grade SCARA arm
       </IndexProjectItem>
 
@@ -55,8 +55,12 @@
         3 DoF manipulator with spherical workspace
       </IndexProjectItem>
 
-      <IndexProjectItem :is-right="true" project-name="FUM 6R-20 Industrial Robot"  project-subtitle="" project-link="/fumnew6r" project-picture="6r.png">
+      <IndexProjectItem :is-right="true" project-name="FUM 6R-20 Industrial Robot"  project-subtitle="" project-link="/fum6r" project-picture="6r.png">
         6 DOF articulated arm
+      </IndexProjectItem>
+
+      <IndexProjectItem :is-right="false" project-name="FUM Delta"  project-subtitle="" project-link="/fumdelta" project-picture="delta.png">
+        Four axis, Pick up and place and Sorting  Robot
       </IndexProjectItem>
 
       <IndexProjectItem :is-right="true" project-name="FUM New6R"  project-subtitle="" project-link="/fumnew6r" project-picture="6r.png">
@@ -67,7 +71,7 @@
 
     <div class="hjtabgroups" v-show="simulatorRobots">
 
-      <IndexProjectItem :is-right="false" project-name="FUM Industrial Large Size Stewart"  project-subtitle="" project-link="/fumindustrialscara" project-picture="large-stewart.jpg">
+      <IndexProjectItem :is-right="false" project-name="FUM Industrial Large Size Stewart"  project-subtitle="" project-link="/fumlargestewart" project-picture="large-stewart.png">
         Large 6-DoF parallel manipulator as a motion simulator
       </IndexProjectItem>
 
@@ -96,7 +100,7 @@
         An ultraviolet radiation autonomous platform for indoors disinfection
       </IndexProjectItem>
 
-      <IndexProjectItem :is-right="true" project-name="FUM Lawn Mower"  project-subtitle="" project-link="/fumlawnmower" project-picture="LawnMower.jpg" :picture-cover="true">
+      <IndexProjectItem :is-right="true" project-name="FUM Lawn Mower"  project-subtitle="" project-link="/fumlawnmower" project-picture="FUM-Lawnmower.png" >
         Fully Autonomous lawn Mower
       </IndexProjectItem>
 
@@ -108,7 +112,7 @@
 
     <div class="hjtabgroups" v-show="actuatorRobots">
 
-      <IndexProjectItem :is-right="false" project-name="FUM Linear SEA"  project-subtitle="" project-link="/fumlinearSEA" project-picture="NoPic.png">
+      <IndexProjectItem :is-right="false" project-name="FUM Linear SEA"  project-subtitle="" project-link="/fumlinearSEA" project-picture="LSEA.jpg">
         Linear series elastic actuator with high impact tolerance
       </IndexProjectItem>
 

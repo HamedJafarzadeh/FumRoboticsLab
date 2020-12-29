@@ -6,7 +6,7 @@
       <br>
       <div class="row">
         <div class=" justify-content-center text-center mx-auto my-auto" >
-          <img src="../../assets/ProjectPictures/large-stewart.jpg" class="align-center" style="width: 40% ; border-radius: 20%" >
+          <img src="../../assets/ProjectPictures/large-stewart.png" class="align-center" style="width: 90% ; border-radius: 20%" >
         </div>
         </div>
       <br>

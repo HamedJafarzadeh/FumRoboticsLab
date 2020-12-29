@@ -26,11 +26,18 @@
             <span  class="slider image fade-out" style="display: none"><img class="sliderimg" src="~/assets/ProjectPictures/6r.png" alt=""/></span>
             <span  class="slider image fade-out" style="display: none"><img class="sliderimg"  src="~/assets/ProjectPictures/hand2.png" alt=""/></span>
             <span  class="slider image fade-out" style="display: none"><img class="sliderimg" src="~/assets/ProjectPictures/fumstewartmidsize.png" alt=""/></span>
+            <span  class="slider image fade-out" style="display: none"><img class="sliderimg" src="~/assets/ProjectPictures/exo1p.png" alt=""/></span>
+            <span  class="slider image fade-out" style="display: none"><img class="sliderimg" src="~/assets/ProjectPictures/exo2.png" alt=""/></span>
+            <span  class="slider image fade-out" style="display: none"><img class="sliderimg" src="~/assets/ProjectPictures/Zippy.png" alt=""/></span>
+            <span  class="slider image fade-out" style="display: none"><img class="sliderimg" src="~/assets/ProjectPictures/fumstewartmidsize.png" alt=""/></span>
+            <span  class="slider image fade-out" style="display: none"><img class="sliderimg" src="~/assets/ProjectPictures/fumvirub.png" alt=""/></span>
+            <span  class="slider image fade-out" style="display: none"><img class="sliderimg" src="~/assets/ProjectPictures/lpsimulator.png" alt=""/></span>
+            <span  class="slider image fade-out" style="display: none"><img class="sliderimg" src="~/assets/ProjectPictures/FUM-Lawnmower.png" alt=""/></span>
+            <span  class="slider image fade-out" style="display: none"><img class="sliderimg" src="~/assets/ProjectPictures/linearactuator1.png" alt=""/></span>
           </div>
         </b-col>
       </b-row>
-
-    <a href="#about" class="nextButton goto-next scrolly">Next</a>
+    <a id="nextButton" href="#about" class="nextButton goto-next scrolly">Next</a>
   </section>
   </div>
 </template>
