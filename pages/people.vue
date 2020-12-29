@@ -427,8 +427,32 @@
           <h6>B.Sc. Mechanical Engineering, Islamic Azad University of Mashhad, Iran <br> (2011-2016)</h6>
           <h6>Research Interests/Specializations: Mechanical Design of Machinery and Industrial Robots, (Additive) Manufacturing Technologies, Industry 4.0, Biomechanical Devices</h6>
         </div>
-
       </b-row>
+      <b-row class="text-center">
+        <div class="col-lg-4">
+          <img src="../assets/people/AmirmNaddafSh.jpg" style="width: 150px; border-radius: 20%">
+          <h5>Amirmohammad Naddaf Shargh</h5>
+          <h5>amirmohammad.naddafshargh@mail.um.ac.ir</h5>
+          <h6>B.Sc. Electrical Engineering, Ferdowsi University of Mashhad, Iran  <br> (2015-2020)</h6>
+          <h6>Research Interests/Specializations: Robotics, Rehabilitation Robotics, Biorobotics, Biomedical Engineering, Control Theory, Optimization, Embedded Systems</h6>
+        </div>
+<!--        <div class="col-lg-4">-->
+<!--          <img src="../assets/people/sinadarivishi.jpg" style="width: 150px; border-radius: 20%">-->
+<!--          <h5>Sina Darvishi</h5>-->
+<!--          <h5>sinadarvi@gmail.com</h5>-->
+<!--          <h6>B.Sc. Computer Hardware Engineering, Ferdowsi University of Mashhad, Iran <br> (2013-2018)</h6>-->
+<!--          <h6>Research Interests/Specializations: Android Developer, Software Developer </h6>-->
+<!--        </div>-->
+<!--        <div class="col-lg-4">-->
+<!--          <img src="../assets/people/farsadbabazadeh.jpg" style="width: 150px; border-radius: 20%">-->
+<!--          <h5>Farsad Babazadeh</h5>-->
+<!--          <h5>farsad.babazadeh@gmail.com</h5>-->
+<!--          <h6> M.Eng. Engineering Sciences with a Focus on Automation Technology, TH-Rosenheim, Germany <br> (2017-present)</h6>-->
+<!--          <h6>B.Sc. Mechanical Engineering, Islamic Azad University of Mashhad, Iran <br> (2011-2016)</h6>-->
+<!--          <h6>Research Interests/Specializations: Mechanical Design of Machinery and Industrial Robots, (Additive) Manufacturing Technologies, Industry 4.0, Biomechanical Devices</h6>-->
+<!--        </div>-->
+      </b-row>
+
     </div>
 
 
