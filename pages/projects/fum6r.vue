@@ -36,12 +36,13 @@
       </div>
 <br>
       <br>
-      <div class="col-12 justify-content-center text-center mx-auto my-auto" >
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/QDMqJOwbw1I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+      <social-videos youtube-i-d="QDMqJOwbw1I" aparat-i-d="mGs03"/>
+
+      <div>
+
       </div>
-
-
-
 
       <br>
       <br>
@@ -51,8 +52,10 @@
 </template>
 
 <script>
+import SocialVideos from "@/components/socialVideos";
 export default {
-name: "fum6r"
+name: "fum6r",
+  components: {SocialVideos}
 }
 </script>
 
