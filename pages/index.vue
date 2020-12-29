@@ -142,7 +142,7 @@
       </div>
       <ul class="copyright">
         <li>&copy; FUM Robotics Lab. All rights reserved.</li>
-        <li>Design: <a href="http://html5up.net">HTML5 UP </a> -  <a href="http://hamedj.ir"> Edited by Hamed Jafarzadeh</a> & Soroush Ahooye Atashin</li>
+        <li>Design:  <a href="http://hamedj.ir"> Hamed Jafarzadeh</a> & Soroush Ahooye Atashin - Inspired by  <a href="http://html5up.net">HTML5 UP</a> </li>
       </ul>
     </footer>
 
