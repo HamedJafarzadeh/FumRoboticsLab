@@ -36,10 +36,7 @@
       </div>
 <br>
       <br>
-      <div class="col-12 justify-content-center text-center mx-auto my-auto" >
-      <video  style="alignment: center" controls>
-        <source src="../../assets/6dof.MP4" type="video/mp4">
-      </video>
+
       </div>
 
 

@@ -88,7 +88,7 @@
         </div>
         <div class="col-lg-4"> <img src="../assets/people/kamalh.jpg" style="width: 157px; border-radius: 20%">
           <h5>Kamal Hosseini Sani</h5>
-          <h5>iman.kardan@um.ac.ir</h5>
+          <h5>k.hosseini@um.ac.ir</h5>
           <h6>Assistant Professor </h6>
           <h6>Department of Control Engineering</h6>
           <h6>Faculty of Engineering</h6>
@@ -359,7 +359,7 @@
           <h5>Reza Kohandel</h5>
           <h5>rezakohandel9@gmail.com </h5>
           <h6>B.Sc. Electrical Engineering, Ferdowsi University, Mashhad, Iran, <br> (2017/present)</h6>
-          <h6>Skills: Electronics & Biomedical Circuit Design – MATLAB – C – Circuits Simulation –Microcontrollers – PCB
+          <h6>Skills: Electronics & Biomedical Circuit Design, MATLAB, C, Circuits Simulation, Microcontrollers, PCB
             Design </h6>
         </div>
         <div class="col-lg-4"> <img
@@ -367,16 +367,14 @@
           <h5>Amir Mohammad Mohammad Zadeh</h5>
           <h5>amirmohammad.m@hotmail.com</h5>
           <h6>B.Sc. Electrical Engineering, Ferdowsi University, Mashhad, Iran, <br> (2017/present)</h6>
-          <h6>Skills: Electronics & Power Electronics Circuit Design – MATLAB – C Programming– STM32 Microcontroller –
-            PCB Design </h6>
+          <h6>Skills: Electronics & Power Electronics Circuit Design, Matlab, C Programming, STM32 Microcontroller, PCB Design </h6>
         </div>
         <div class="col-lg-4">
           <img src="../assets/people/Kazemi.png" style="width: 170px; border-radius: 20%">
           <h5>Mahdi KazemiEsfahani</h5>
           <h5>m.kazemiesfahani@mail.um.ac.ir</h5>
-          <h6>B.Sc. Mechanical Engineering, Fedowsi University, Mashhad, Iran, <br> (2017-2021)</h6>
-          <h6>Skills: Mechanical design, Programming, Python, Machine learning and Machine Vision, ARDUINO, Simulation
-            (COMSOL, Abaqus, Adams) </h6>
+          <h6>B.Sc. Mechanical Engineering, Fedowsi University, Mashhad, Iran, <br> (2017/present)</h6>
+          <h6>Skills: Mechanical design, Matlab, Python, Machine learning and Machine Vision, Arduino, COMSOL, Abaqus, Adams </h6>
         </div>
       </div>
 
@@ -388,7 +386,7 @@
           <h5>Saleh Farsi</h5>
           <h5>far30.1999@gmail.com </h5>
           <h6>B.Sc. Mechanical Engineering, Ferdowsi University, Mashhad, Iran, <br> (2017/present)</h6>
-          <h6>Skills: Mechanical design, Machine learning and Machine Vision, Simulation (COMSOL, Abaqus, Adams) </h6>
+          <h6>Skills: Mechanical design, Machine learning, Ansys, Abaqus, Delmia, ARDUINO </h6>
         </div>
         <div class="col-lg-4"> <img
           <img src="../assets/people/rezaei.png" style="width: 205px; border-radius: 20%">

@@ -20,10 +20,13 @@
         a hard, laminated plastic shell that provides the weight-bearing support
 
       </IndexProjectItem>
-      <IndexProjectItem :is-right="true" project-name="FUM Knee Exoskeleton"  project-subtitle="" project-link="/fumkneeexoskeleton" project-picture="fum-knee.png">
+      <IndexProjectItem  :is-right="true" project-name="FUM Hexa"  project-subtitle="" project-link="/fumhexa" project-picture="NoPic.png" >
+        Double joint Light weight Lower limb exoskeleton for rehabilitation
+      </IndexProjectItem>
+      <IndexProjectItem :is-right="false" project-name="FUM Knee Exoskeleton"  project-subtitle="" project-link="/fumkneeexoskeleton" project-picture="fum-knee.png">
         Series elastic actuator based knee orthosis
       </IndexProjectItem>
-      <IndexProjectItem :is-right="false" project-name="FUM Knee Physio"  project-subtitle="" project-link="/fumkneephysio" project-picture="Physio.png">
+      <IndexProjectItem :is-right="true" project-name="FUM Knee Physio"  project-subtitle="" project-link="/fumkneephysio" project-picture="Physio.png">
         Knee rehabilitation enabling game based therapy
       </IndexProjectItem>
 
@@ -55,7 +58,7 @@
         3 DoF manipulator with spherical workspace
       </IndexProjectItem>
 
-      <IndexProjectItem :is-right="true" project-name="FUM 6R-20 Industrial Robot"  project-subtitle="" project-link="/fumnew6r" project-picture="6r.png">
+      <IndexProjectItem :is-right="true" project-name="FUM 6R-20 Industrial Robot"  project-subtitle="" project-link="/fum6r" project-picture="6r.png">
         6 DOF articulated arm
       </IndexProjectItem>
 
@@ -84,11 +87,15 @@
       </IndexProjectItem>
 
       <IndexProjectItem :is-right="true" project-name="FUM 3-PSP Industrial Parallel Robot"  project-subtitle="" project-link="/fum3-psp" project-picture="NoPic.png">
-        Semi industrial parallel robot
+      Semi industrial parallel robot
+    </IndexProjectItem>
+
+      <IndexProjectItem :is-right="false" project-name="FUM 3-RRS Spatial Parallel Robot"  project-subtitle="" project-link="/fum3rrs" project-picture="3rrs.png">
+        Flexible 3-RRS parallel robot with revolute actuators
       </IndexProjectItem>
 
 
-      <IndexProjectItem :is-right="false" project-name="FUM LP Simulator"  project-subtitle="" project-link="/fumLPsim" project-picture="lpsimulator.png">
+      <IndexProjectItem :is-right="true" project-name="FUM LP Simulator"  project-subtitle="" project-link="/fumLPsim" project-picture="lpsimulator.png">
         large 6-DoF parallel manipulator as a motion simulator
       </IndexProjectItem>
 
@@ -112,6 +119,10 @@
 
     <div class="hjtabgroups" v-show="actuatorRobots">
 
+      <IndexProjectItem :is-right="true" project-name="FUM Linear Actuator"  project-subtitle="" project-link="/fumlinearactuator" project-picture="linearactuator1.png">
+        Prismatic actuator with continuous force along its stroke
+      </IndexProjectItem>
+
       <IndexProjectItem :is-right="false" project-name="FUM Linear SEA"  project-subtitle="" project-link="/fumlinearSEA" project-picture="LSEA.jpg">
         Linear series elastic actuator with high impact tolerance
       </IndexProjectItem>
@@ -120,9 +131,6 @@
         Revolute series elastic actuator
       </IndexProjectItem>
 
-      <IndexProjectItem :is-right="false" project-name="FUM Linear Actuator"  project-subtitle="" project-link="/fumlinearactuator" project-picture="linearactuator1.png">
-        Prismatic actuator with continuous force along its stroke
-      </IndexProjectItem>
 
     </div>
 
