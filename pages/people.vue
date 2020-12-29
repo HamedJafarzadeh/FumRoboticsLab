@@ -425,6 +425,7 @@
           <img src="../assets/people/farsadbabazadeh.jpg" style="width: 150px; border-radius: 20%">
           <h5>Farsad Babazadeh</h5>
           <h5>farsad.babazadeh@gmail.com</h5>
+          <h6> M.Eng. Engineering Sciences with a Focus on Automation Technology, TH-Rosenheim, Germany <br> (2017-present)</h6>
           <h6>B.Sc. Mechanical Engineering, Islamic Azad University of Mashhad, Iran <br> (2011-2016)</h6>
           <h6>Research Interests/Specializations: Mechanical Design of Machinery and Industrial Robots, (Additive) Manufacturing Technologies, Industry 4.0, Biomechanical Devices</h6>
         </div>
