@@ -88,7 +88,7 @@
         </div>
         <div class="col-lg-4"> <img src="../assets/people/kamalh.jpg" style="width: 157px; border-radius: 20%">
           <h5>Kamal Hosseini Sani</h5>
-          <h5>iman.kardan@um.ac.ir</h5>
+          <h5>k.hosseini@um.ac.ir</h5>
           <h6>Assistant Professor </h6>
           <h6>Department of Control Engineering</h6>
           <h6>Faculty of Engineering</h6>
@@ -359,7 +359,7 @@
           <h5>Reza Kohandel</h5>
           <h5>rezakohandel9@gmail.com </h5>
           <h6>B.Sc. Electrical Engineering, Ferdowsi University, Mashhad, Iran, <br> (2017/present)</h6>
-          <h6>Skills: Electronics & Biomedical Circuit Design – MATLAB – C – Circuits Simulation –Microcontrollers – PCB
+          <h6>Skills: Electronics & Biomedical Circuit Design, MATLAB, C, Circuits Simulation, Microcontrollers, PCB
             Design </h6>
         </div>
         <div class="col-lg-4"> <img
@@ -367,16 +367,14 @@
           <h5>Amir Mohammad Mohammad Zadeh</h5>
           <h5>amirmohammad.m@hotmail.com</h5>
           <h6>B.Sc. Electrical Engineering, Ferdowsi University, Mashhad, Iran, <br> (2017/present)</h6>
-          <h6>Skills: Electronics & Power Electronics Circuit Design – MATLAB – C Programming– STM32 Microcontroller –
-            PCB Design </h6>
+          <h6>Skills: Electronics & Power Electronics Circuit Design, Matlab, C Programming, STM32 Microcontroller, PCB Design </h6>
         </div>
         <div class="col-lg-4">
           <img src="../assets/people/Kazemi.png" style="width: 170px; border-radius: 20%">
           <h5>Mahdi KazemiEsfahani</h5>
           <h5>m.kazemiesfahani@mail.um.ac.ir</h5>
-          <h6>B.Sc. Mechanical Engineering, Fedowsi University, Mashhad, Iran, <br> (2017-2021)</h6>
-          <h6>Skills: Mechanical design, Programming, Python, Machine learning and Machine Vision, ARDUINO, Simulation
-            (COMSOL, Abaqus, Adams) </h6>
+          <h6>B.Sc. Mechanical Engineering, Fedowsi University, Mashhad, Iran, <br> (2017/present)</h6>
+          <h6>Skills: Mechanical design, Matlab, Python, Machine learning and Machine Vision, Arduino, COMSOL, Abaqus, Adams </h6>
         </div>
       </div>
 
@@ -388,7 +386,7 @@
           <h5>Saleh Farsi</h5>
           <h5>far30.1999@gmail.com </h5>
           <h6>B.Sc. Mechanical Engineering, Ferdowsi University, Mashhad, Iran, <br> (2017/present)</h6>
-          <h6>Skills: Mechanical design, Machine learning and Machine Vision, Simulation (COMSOL, Abaqus, Adams) </h6>
+          <h6>Skills: Mechanical design, Machine learning, Ansys, Abaqus, Delmia, ARDUINO </h6>
         </div>
         <div class="col-lg-4"> <img
           <img src="../assets/people/rezaei.png" style="width: 205px; border-radius: 20%">
@@ -405,7 +403,6 @@
         </b-col>
       </b-row>
       <b-row class="text-center">
-        <b-col>
           <div class="col-lg-4">
             <img src="../assets/people/hamedjafarzadeh.JPG" style="width: 150px; border-radius: 20%">
             <h5>Hamed Jafarzadeh</h5>
@@ -415,8 +412,54 @@
             <h6>B.Sc. Computer Hardware Engineering, Ferdowsi University of Mashhad, Iran <br> (2013-2018)</h6>
             <h6>Research Interests/Specializations: Electronics, Software, Miniatruized Devices, Mobile Robots, Robotic Control, Biomedical Devices </h6>
           </div>
-        </b-col>
+        <div class="col-lg-4">
+          <img src="../assets/people/sinadarivishi.jpg" style="width: 150px; border-radius: 20%">
+          <h5>Sina Darvishi</h5>
+          <h5>sinadarvi@gmail.com</h5>
+          <h6>B.Sc. Computer Hardware Engineering, Ferdowsi University of Mashhad, Iran <br> (2013-2018)</h6>
+          <h6>Research Interests/Specializations: Android Developer, Software Developer </h6>
+        </div>
+        <div class="col-lg-4">
+          <img src="../assets/people/farsadbabazadeh.jpg" style="width: 150px; border-radius: 20%">
+          <h5>Farsad Babazadeh</h5>
+          <h5>farsad.babazadeh@gmail.com</h5>
+          <h6> M.Eng. Engineering Sciences with a Focus on Automation Technology, TH-Rosenheim, Germany <br> (2017-present)</h6>
+          <h6>B.Sc. Mechanical Engineering, Islamic Azad University of Mashhad, Iran <br> (2011-2016)</h6>
+          <h6>Research Interests/Specializations: Mechanical Design of Machinery and Industrial Robots, (Additive) Manufacturing Technologies, Industry 4.0, Biomechanical Devices</h6>
+        </div>
       </b-row>
+      <b-row class="text-center">
+        <div class="col-lg-4">
+          <img src="../assets/people/AmirmNaddafSh.jpg" style="width: 150px; border-radius: 20%">
+          <h5>Amirmohammad Naddaf Shargh</h5>
+          <h5>amirmohammad.naddafshargh@mail.um.ac.ir</h5>
+          <h6>B.Sc. Electrical Engineering, Ferdowsi University of Mashhad, Iran  <br> (2015-2020)</h6>
+          <h6>Research Interests/Specializations: Robotics, Rehabilitation Robotics, Biorobotics, Biomedical Engineering, Control Theory, Optimization, Embedded Systems</h6>
+        </div>
+<!--        <div class="col-lg-4">-->
+<!--          <img src="../assets/people/sinadarivishi.jpg" style="width: 150px; border-radius: 20%">-->
+<!--          <h5>Sina Darvishi</h5>-->
+<!--          <h5>sinadarvi@gmail.com</h5>-->
+<!--          <h6>B.Sc. Computer Hardware Engineering, Ferdowsi University of Mashhad, Iran <br> (2013-2018)</h6>-->
+<!--          <h6>Research Interests/Specializations: Android Developer, Software Developer </h6>-->
+<!--        </div>-->
+<!--        <div class="col-lg-4">-->
+<!--          <img src="../assets/people/farsadbabazadeh.jpg" style="width: 150px; border-radius: 20%">-->
+<!--          <h5>Farsad Babazadeh</h5>-->
+<!--          <h5>farsad.babazadeh@gmail.com</h5>-->
+<!--          <h6> M.Eng. Engineering Sciences with a Focus on Automation Technology, TH-Rosenheim, Germany <br> (2017-present)</h6>-->
+<!--          <h6>B.Sc. Mechanical Engineering, Islamic Azad University of Mashhad, Iran <br> (2011-2016)</h6>-->
+<!--          <h6>Research Interests/Specializations: Mechanical Design of Machinery and Industrial Robots, (Additive) Manufacturing Technologies, Industry 4.0, Biomechanical Devices</h6>-->
+<!--        </div>-->
+      </b-row>
+
+    </div>
+
+
+    <div class="row mt-5 vw-100">
+      <div class="col text-center justify-content-center">
+        Caught a mistake or want to add or edit this page? <a href="https://github.com/HamedJafarzadeh/FumRoboticsLab">Edit this page on Github!</a>
+      </div>
     </div>
   </div>
 </template>
