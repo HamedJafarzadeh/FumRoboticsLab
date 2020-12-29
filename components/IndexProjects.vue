@@ -55,7 +55,7 @@
         3 DoF manipulator with spherical workspace
       </IndexProjectItem>
 
-      <IndexProjectItem :is-right="true" project-name="FUM 6R-20 Industrial Robot"  project-subtitle="" project-link="/fumnew6r" project-picture="6r.png">
+      <IndexProjectItem :is-right="true" project-name="FUM 6R-20 Industrial Robot"  project-subtitle="" project-link="/fum6r" project-picture="6r.png">
         6 DOF articulated arm
       </IndexProjectItem>
 
