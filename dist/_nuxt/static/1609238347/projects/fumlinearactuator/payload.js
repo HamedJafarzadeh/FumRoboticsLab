@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/projects/fumlinearactuator", {data:[{}],fetch:[],mutations:void 0});
