@@ -320,7 +320,7 @@ Energy Harvesting, AI" linkedin="">
       </b-row>
       <b-row class="text-center my-4">
         <Peopleitem
-          img="hamedjafarzadeh.jpg"
+          img="h-jafarzadeh.jpg"
           name="Hamed Jafarzadeh"
           grade="M.Res.Sc Student"
           email="hamed.jafarzadeh@tyndall.ie"
@@ -414,13 +414,13 @@ Energy Harvesting, AI" linkedin="">
 
 
       </b-row>
-
-      <div class="row mt-5 vw-100">
+    </div>
+      <div class="row mt-5 ">
         <div class="col text-center justify-content-center">
           Caught a mistake or want to add or edit this page? <a
           href="https://github.com/HamedJafarzadeh/FumRoboticsLab">Edit
           this page on Github!</a>
-        </div>
+
       </div>
     </div>
   </div>
