@@ -6,7 +6,7 @@
       <h1>
         Join Us !
       </h1>
-      <h3>We’re hiring talented people in a variety of technical and nontechnical roles to join our team in Ferdowsi University of Mashhad.</h3>
+      <h3>We’re inviting talented people in a variety of technical and nontechnical roles to join our team in Ferdowsi University of Mashhad.</h3>
       We are continuously searching for EXCELLENT students that want to work on
       <ul>
         <li>Motion planning and model predictive control</li>

@@ -6,11 +6,11 @@
       <br>
       <div class="row">
         <div class="col-12 justify-content-center text-center mx-auto my-auto" >
-          <img src="../../assets/Robot.png" style="width: 30%; border-radius: 20%">
+          <img src="../../assets/ProjectPictures/HEXA.png" style="width: 50%; border-radius: 20%">
         </div>
       </div>
       <div class="row">
-        <p>The Semi industrial 3PSP is of type 3PSP parallel robot. It can run in any of the three X,Y,Z,ϑ,φ,λ degrees of freedom, prominently used for orientating tools and solar panels. The robot has an open control architecture suitable for research applications. </p>
+        <p style="text-align: justify"> Hip Exoskeleton for Assistance (HEXA) is a wearable robotic system for assistive technology and rehabilitation engineering, primarily developed to help patients with lower limb disabilities to restore or improve their walking ability. The robot consists of two 70 BLDC with Harmonic Drive gearbox, each for either hip; driving the two metal links which are placed parallel to the human thigh and fastened with Velcro straps. HEXA assists disabled people regain their locomotion with significant reduction of the therapists’ physical burden. </p>
       </div>
 
     </div>
