@@ -20,8 +20,8 @@
         a hard, laminated plastic shell that provides the weight-bearing support
 
       </IndexProjectItem>
-      <IndexProjectItem  :is-right="true" project-name="FUM Hexa"  project-subtitle="" project-link="/fumhexa" project-picture="NoPic.png" >
-        Double joint Light weight Lower limb exoskeleton for rehabilitation
+      <IndexProjectItem  :is-right="true" project-name="FUM Hexa"  project-subtitle="" project-link="/fumhexa" project-picture="HEXA.png" >
+        Supporting ambulatory functions in the elderly or patients with gait impairment
       </IndexProjectItem>
       <IndexProjectItem :is-right="false" project-name="FUM Knee Exoskeleton"  project-subtitle="" project-link="/fumkneeexoskeleton" project-picture="fum-knee.png">
         Series elastic actuator based knee orthosis
@@ -46,6 +46,10 @@
 
     <div  class="hjtabgroups" v-show="industrialRobots">
 
+      <IndexProjectItem :is-right="true" project-name="FUM 6R-20 Industrial Robot"  project-subtitle="" project-link="/fum6r" project-picture="6r.png">
+        6 DOF articulated arm
+      </IndexProjectItem>
+
       <IndexProjectItem :is-right="false" project-name="FUM SCARA II"  project-subtitle="" project-link="/fumscara2" project-picture="scara2.png">
         Research grade SCARA arm
       </IndexProjectItem>
@@ -58,15 +62,13 @@
         3 DoF manipulator with spherical workspace
       </IndexProjectItem>
 
-      <IndexProjectItem :is-right="true" project-name="FUM 6R-20 Industrial Robot"  project-subtitle="" project-link="/fum6r" project-picture="6r.png">
-        6 DOF articulated arm
-      </IndexProjectItem>
 
-      <IndexProjectItem :is-right="false" project-name="FUM Delta"  project-subtitle="" project-link="/fumdelta" project-picture="delta.png">
+
+      <IndexProjectItem :is-right="true" project-name="FUM Delta"  project-subtitle="" project-link="/fumdelta" project-picture="delta.png">
         Four axis, Pick up and place and Sorting  Robot
       </IndexProjectItem>
 
-      <IndexProjectItem :is-right="true" project-name="FUM New6R"  project-subtitle="" project-link="/fumnew6r" project-picture="6r.png">
+      <IndexProjectItem :is-right="false" project-name="FUM New6R"  project-subtitle="" project-link="/fumnew6r" project-picture="6Rnew.png">
         New 6 DOF articulated arm
       </IndexProjectItem>
 
@@ -123,7 +125,7 @@
         Prismatic actuator with continuous force along its stroke
       </IndexProjectItem>
 
-      <IndexProjectItem :is-right="false" project-name="FUM Linear SEA"  project-subtitle="" project-link="/fumlinearSEA" project-picture="LSEA.jpg">
+      <IndexProjectItem :is-right="false" project-name="FUM Linear SEA"  project-subtitle="" project-link="/fumlinearSEA" project-picture="LA.png" >
         Linear series elastic actuator with high impact tolerance
       </IndexProjectItem>
 
