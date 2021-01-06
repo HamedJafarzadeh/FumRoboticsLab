@@ -6,7 +6,7 @@
       <br>
       <div class="row">
         <div class="col-12 justify-content-center text-center mx-auto my-auto" >
-        <img src="../../assets/ProjectPictures/FUM-Exoskeleton-I.jpg" style="width: 20% ; border-radius: 20%">
+        <img src="../../assets/ProjectPictures/exo1p.png" style="width: 20% ; border-radius: 20%">
       </div>
       </div>
       <div class="row">
@@ -18,6 +18,24 @@
           Lower limb exoskeleton can be used for providing strength during walking, to carry heavy loads or aiding the disabled people for walking. Different exoskeletal devices have been developed to supplement the mechanical power needed by people with lower-limb impairments, developed as tools for gait rehabilitation and mobility assistance. Powered lower-limb exoskeleton has gained considerable interests, since it can help patients with spinal cord injury to stand and walk again.
           The current FUM exoskeleton accommodates an extensive array of sensors integrated with an advanced control system, enabling full movement control. The modular and adjustable design allows the user to independently wear and remove each segment of the robot, and can comfortably be worn while seated in a wheelchair. The overall weight is less than 22 kg while producing a maximum speed of 0.5m/s. Batteries allow 2 hours of continuous or 8 hours of intermittent walk.
         </p>
+        <br>
+        <br>
+       <div class="col-lg-12">
+         <social-videos youtube-i-d="GxXFAnqObPk" aparat-i-d="taTdj"/>
+
+
+         <br>
+
+       </div>
+
+
+
+        <div class="col-lg-12">
+          <br>
+          <social-videos youtube-i-d="TLseVuZhDGc" aparat-i-d="4gkLB"/>
+
+        </div>
+
 
       </div>
       <br>

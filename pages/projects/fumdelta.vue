@@ -12,9 +12,27 @@
       <br>
       <div class="row">
         <p> A parallel robot with three parallelogram arms for picking and packaging with high acceleration and speed capability. </p>
+        <div class="col-12 justify-content-center">
+          <social-videos youtube-i-d="7TS7npC5ZZo" aparat-i-d="F0gy4"/>
+          <br>
+          <br>
+        </div>
+        <br>
+        <br>
+        <br>
+        <br>
+
+
+
+
       </div>
 
+
+
+
     </div>
+
+
 
 
   </div>

@@ -21,6 +21,23 @@
         <li>Applications: Optic surgery, Orienting Objects
         </li>
       </div>
+      <br>
+
+      <div class="col-lg-12">
+
+        <social-videos youtube-i-d="1U_nB2uP1Uc" aparat-i-d="K58Gn"/>
+        <br>
+        <br>
+
+      </div>
+      <div class="col-lg-12">
+
+        <social-videos youtube-i-d="FRAvAUU38Qs" aparat-i-d="0YjnP"/>
+        <br>
+        <br>
+
+      </div>
+
 
 
 

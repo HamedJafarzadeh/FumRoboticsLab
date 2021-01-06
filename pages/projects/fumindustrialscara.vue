@@ -38,6 +38,24 @@
 
 
     </div>
+
+
+    <div class="col-lg-12">
+
+      <social-videos youtube-i-d="265jkRlHiVY" aparat-i-d="2P35d"/>
+      <br>
+      <br>
+
+    </div>
+
+    <div class="col-lg-12">
+
+      <social-videos youtube-i-d="wMIIXDEp1hQ" aparat-i-d="uGXtq"/>
+      <br>
+      <br>
+
+    </div>
+
   </div>
 </template>
 
