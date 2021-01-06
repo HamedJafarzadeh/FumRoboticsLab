@@ -3,101 +3,103 @@
     <div class="content container">
       <br>
       <br>
-      <div class="row">
-        <div class="col-lg-4 justify-content-center text-center mx-auto my-auto">
-          <img src="../assets/people/ali_akbarzadeh.jpg" style="width: 200px; border-radius: 20%">
-        </div>
-        <div class="col-lg-8">
-          <h3>Alireza Akbarzadeh</h3>
-          <h4>Director of Advanced Robotics Lab</h4>
-          <h5>Founding member of the Center of Excellence on Soft Computing and Intelligent Information Processing</h5>
-          <i class="icon solid fas fa-external-link-alt"></i> <a href="http://ali_akbarzadeh.profcms.um.ac.ir/">
-          Home Page </a>
-
-
-          <p align="justify">
-            Professor <br>
-
-            Department of Mechanical Engineering <br>
-            Ferdowsi University Of Mashhad (FUM)
-            <br>
-            Email: ali_akbarzadeh@um.ac.ir.
-          <p/>
-
-
-        </div>
-      </div>
 
       <b-row>
         <b-col class="text-center">
-          <h2> Academics </h2>
+          <h2> Team Members </h2>
         </b-col>
       </b-row>
 
 
       <div class="row text-center my-4">
-        <div class="col-lg-4">
-          <img src="../assets/people/mohammadreza_akbarzadeh.jpg" style="height: 230px;width: auto; border-radius: 20%">
-          <h5>Mohammadreza Akbarzadeh Tootoonchi</h5>
-          <h5>akbarzadeh@ieee.org</h5>
-          <h6> Professor </h6>
-          <h6>Department of Control Engineering</h6>
-          <h6>Ferdowsi University Of Mashhad (FUM)</h6>
+        <Peopleitem
+          img="ali_akbarzadeh.jpg"
+          name="Alireza Akbarzadeh"
+          grade="Professor"
+          email="ali_akbarzadeh@um.ac.ir"
+          research="Rehabilitation Robotics, Parallel and Industrial Robots, Dynamics, Control, Applied Statistics"
+          linkedin="https://www.linkedin.com/in/alireza-akbarzadeh-829289203/"
+          blog="http://ali_akbarzadeh.profcms.um.ac.ir/">
 
-          <h6>Research Interests/Specializations: Fuzzy Logic, Artificial Inteligence, Soft Computing, Complex Systems,
-            Biomedical Engineering </h6>
-          <i class="icon solid fas fa-external-link-alt"></i> <a href="http://ali_akbarzadeh.profcms.um.ac.ir/">
-          Home Page </a>
+        </Peopleitem>
 
-        </div>
-        <div class="col-lg-4"><img src="../assets/people/kardan.jpg" style="height: 230px;width: auto; border-radius: 20%">
-          <h5>Iman Kardan</h5>
-          <h5>iman.kardan@um.ac.ir</h5>
-          <h6>Assistant Professor </h6>
-          <h6>Department of Mechanical Engineering</h6>
-          <h6>Faculty of Engineering</h6>
-          <h6>Ferdowsi University Of Mashhad (FUM)</h6>
-          <h6>Research Interests/Specializations: Rehabilitation Robotics, Human-Robot Interaction, Robot Control </h6>
-        </div>
-        <div class="col-lg-4"><img src="../assets/people/alimoradi.jpg" style="height: 230px;width: auto; border-radius: 20%">
-          <h5>Ali Moradi</h5>
-          <h5>almor0012@gmail.com</h5>
-          <h6>Associate Professor </h6>
-          <h6>Department of Orthopedics</h6>
-          <h6>School of Medicine</h6>
-          <h6>Mashhad University of Medical Sciences</h6>
-          <h6>Research Interests/Specializations: Orthopedics </h6>
-        </div>
+        <Peopleitem
+          img="kardan.jpg"
+          name="Iman Kardan"
+          grade="Assistant Professor"
+          email="iman.kardan@um.ac.ir"
+          research="Rehabilitation Robotics, Human-Robot Interaction, Robot Control"
+          linkedin="https://www.linkedin.com/in/iman-kardan-54594979/"
+          blog="http://iman.kardan.profcms.um.ac.ir/">
+
+        </Peopleitem>
+
+
+
+        <Peopleitem
+            img="mohammadreza_akbarzadeh.jpg"
+            name="Mohammadreza Akbarzadeh Tootoonchi"
+            grade="Professor"
+            email="akbarzadeh@ieee.org"
+            research="Fuzzy Logic, Artificial Inteligence, Soft Computing, Complex Systems,
+            Biomedical Engineering"
+            linkedin="https://www.linkedin.com/in/hjafarzadeh/"
+            blog="http://akbazar.profcms.um.ac.ir/">
+
+          </Peopleitem>
 
       </div>
+
+
+
+
+
+
+
+
 
       <hr/>
 
 
       <div class="row text-center my-4">
-        <div class="col-lg-4">
-          <img src="../assets/people/negahban.jpg" style="width: 160px; border-radius: 20%">
-          <h5>Hossein Negahban</h5>
-          <h5>honegahban@yahoo.com</h5>
-          <h6>Professor </h6>
-          <h6>Department of Physiotherapy</h6>
-          <h6>School of Medicine</h6>
-          <h6>Mashhad University of Medical Sciences</h6>
 
-          <h6>Research Interests/Specializations: Dual-Task, Outcome Measurment, Postural control, Musculoskeletal,
-            Posture </h6>
+        <Peopleitem
+          img="alimoradi.jpg"
+          name="Ali Moradi"
+          grade="Associate Professor"
+          email="almor0012@gmail.com"
+          research="Orthopedics"
+          linkedin=""
+          blog="">
 
-        </div>
-        <div class="col-lg-4"><img src="../assets/people/kamalh.jpg" style="width: 157px; border-radius: 20%">
-          <h5>Kamal Hosseini Sani</h5>
-          <h5>k.hosseini@um.ac.ir</h5>
-          <h6>Assistant Professor </h6>
-          <h6>Department of Control Engineering</h6>
-          <h6>Faculty of Engineering</h6>
-          <h6>Ferdowsi University Of Mashhad (FUM)</h6>
-          <h6>Research Interests/Specializations: Model Predictive Control, Robotic, Applied Control, Renewable
-            Energy </h6>
-        </div>
+        </Peopleitem>
+
+        <Peopleitem
+          img="negahban.jpg"
+          name="Hossein Negahban"
+          grade="Professor"
+          email="honegahban@yahoo.com"
+          research="Dual-Task, Outcome Measurment, Postural control, Musculoskeletal,
+            Posture"
+          linkedin="https://www.linkedin.com/in/hossein-negahban-9539322b/"
+          blog="http://akbazar.profcms.um.ac.ir/">
+
+        </Peopleitem>
+
+
+        <Peopleitem
+          img="kamalh.jpg"
+          name="Kamal Hosseini Sani"
+          grade="Associate Professor"
+          email="k.hosseini@um.ac.ir"
+          research="Model Predictive Control, Robotic, Applied Control, Renewable
+            Energy"
+          linkedin="https://www.linkedin.com/in/kamal-hosseini-sani-49b18bb7/"
+          blog="http://k.hosseini.profcms.um.ac.ir/">
+
+        </Peopleitem>
+
+
 
       </div>
 
@@ -158,17 +160,17 @@
 
         <Peopleitem img="malekzade.jpg" name="Mohammad Malekzadeh Arasteh" grade="Ph.D Student"
                     email="Mohammad.Malek132@gmail.com " research="  Humanoid Robotics,
-        Legged Robotics, Continuous Passive Motion and Controlled Active Motion Devices" linkedin="">
+        Legged Robotics, Continuous Passive Motion and Controlled Active Motion Devices" linkedin="https://www.linkedin.com/in/mohammad-malek-392ba786/">
         </Peopleitem>
 
         <Peopleitem img="zare.png" name="Amir Hossein Zare" grade="Ph.D Student" email="amir.h.zare1991@gmail.com"
                     research="  Machine Learning, Reinforcement Learning,
-         Vision, Programming, Control, Advanced Robotics" linkedin="">
+         Vision, Programming, Control, Advanced Robotics" linkedin="https://www.linkedin.com/in/amir-hossein-zare-a0329014a/">
         </Peopleitem>
 
         <Peopleitem img="rahman.png" name="Rahman Ardakanian" grade="Ph.D Student"
                     email="rahman.ardakanian@mail.um.ac.ir " research="  Industrial and Medical Robots,
-        Mechanism Design, Vibration, Deep Reinforcement Learning, Robustness and Optimization" linkedin="">
+        Mechanism Design, Vibration, Deep Reinforcement Learning, Robustness and Optimization" linkedin="https://www.linkedin.com/in/rahmanardakanian/">
         </Peopleitem>
 
       </div>
@@ -178,7 +180,7 @@
 
         <Peopleitem img="vaezi.png" name="Mohammad Rasool Vaezi" grade="Ph.D Student" email="mr_vaezi@mail.um.ac.ir "
                     research="  Assistive Exoskeleton, Controlling Robots, Adaptive Control,
-            Predictive Control , Advanced Control theory, Designing and Manufacturing Specialized Sensors" linkedin="">
+            Predictive Control , Advanced Control theory, Designing and Manufacturing Specialized Sensors" linkedin="https://www.linkedin.com/in/mohammad-rasool-vaezi/">
         </Peopleitem>
 
         <Peopleitem img="razavi.png" name="Seyyed Mohammadreza Razavi" grade="Ph.D Student"
@@ -188,7 +190,7 @@
 
         <Peopleitem img="mosadegh.png" name="Hamidreza Mosaddegh Hesar" grade="Associate Researcher"
                     email="hamid.mosaddegh@yahoo.com " research="  Variable-Speed AC Drives, Power Electronics, Electrical Machine
-            Design, Nonlinear Control, Renewable Energy Technologies" linkedin="">
+            Design, Nonlinear Control, Renewable Energy Technologies" linkedin="https://www.linkedin.com/in/hamidreza-mosaddegh-12314979/">
         </Peopleitem>
       </div>
 
@@ -200,12 +202,12 @@
         <Peopleitem img="shahabi.png" name="Mohammad Entekhab Shahabi" grade="M.Sc Student"
                     email="m.en.shahabi@gmail.com " research="  echanical Design, Robotics, Robot-Assisted Physiotherapy and Robotic
             Rehabilitation, Flexible-Link Robots, Impedance Control, Fuzzy Control, Dynamic Simulation, Vibration
-            Control, Artificial Neural Networks" linkedin="">
+            Control, Artificial Neural Networks" linkedin="https://www.linkedin.com/in/mohammad-entekhab-shahabi-19685b81/">
         </Peopleitem>
 
         <Peopleitem img="makhdoomi.png" name="Arian Makhdoomi" grade="M.Sc Student" email="makhdumiaryan@gmail.com"
                     research=" Electronic Circuit Design, Electrical Machine Design, Power
-            Electronics, Analog Electronics, Control System Design" linkedin="">
+            Electronics, Analog Electronics, Control System Design" linkedin="https://www.linkedin.com/in/aryan-makhdoumi-55280953/">
         </Peopleitem>
 
 
@@ -216,20 +218,20 @@
 
         <Peopleitem img="atashin.png" name="Soroush Ahooye Atashin" grade="Associate Researcher"
                     email="s.atasheen@yahoo.com" research=" Control Drives,
-        Power Electronics, Electrical Machine Design" linkedin="">
+        Power Electronics, Electrical Machine Design" linkedin="https://www.linkedin.com/in/soroush-atashin-0a02b9125/">
         </Peopleitem>
 
         <Peopleitem img="forutan.png" name="Ali Forutanian" grade="M.Sc Student" email="aliforoutanni@gmail.com"
                     research=" Neuroimaging, Brain Connectivity,
         Cognitive Process, Brain Functional
             Modelling, linguistics Processing, Biomedical Signal Processing, Complex Systems, Nonlinear Dynamics,
-            Chaotic System, Artificial Intelligence" linkedin="">
+            Chaotic System, Artificial Intelligence" linkedin="https://www.linkedin.com/in/ali-foroutannia-7730a8129/">
         </Peopleitem>
 
         <Peopleitem img="maleki.png" name="Amirkhosro Maleki" grade="M.Sc Student"
                     email="maleki.amirkhosro@mail.um.ac.ir" research="  Artificial Intelligence Methods in Vital Signs Analysis for
             Controlling Rehabilitation Robots, Instrumentation Control and Automation, Medical Image processing"
-                    linkedin="">
+                    linkedin="https://www.linkedin.com/in/amirkhosro-maleki-447994172/">
         </Peopleitem>
 
       </div>
@@ -239,17 +241,17 @@
 
         <Peopleitem img="sabzali.png" name="Hojjat Sabzali" grade="M.Sc Student" email="hsabzali@mail.um.ac.ir"
                     research="  AExoskeleton robots, mechanical engineering design,
-         FEM analysis and  control of series robots" linkedin="">
+         FEM analysis and  control of series robots" linkedin="https://www.linkedin.com/in/hojjat-sabzali/">
         </Peopleitem>
 
         <Peopleitem img="soltani.png" name="Arezoo Soltani" grade="M.Sc Student" email="Arezooslt49@gmail.com"
                     research="  Neurorehabilitation, Biological Signal Processing, Artificial Neural
-            Network" linkedin="">
+            Network" linkedin="https://www.linkedin.com/in/arezoo-soltani-282ab8153/">
         </Peopleitem>
 
         <Peopleitem img="eskandari.png" name="Mohammad Hassan Eskandari" grade="M.Sc Student"
                     email="mmh_eskandari@outlook.com" research="  Serious Games, Human-Computer Interaction, Information
-            Visualization" linkedin="">
+            Visualization" linkedin="https://www.linkedin.com/in/mh-eskandari/">
         </Peopleitem>
       </div>
 
@@ -259,12 +261,12 @@
         <Peopleitem img="gholamian.png" name="Farzaneh Gholamian" grade="Associate Researcher"
                     email="F_gholamian@sut.ac.ir" research=" Rehabilitation,
         Bone Biomechanics, Finite Element Analysis,
-            Implants " linkedin="">
+            Implants " linkedin="https://www.linkedin.com/in/farzaneh-gholamian-6439a880/">
         </Peopleitem>
 
         <Peopleitem img="tayarani.png" name="Keyvan Tayaranian Marvian" grade="B.Sc Student"
                     email="k.tayaranianmarvian@mail.um.ac.ir" research=" Control Theory, Rehabilitation Robotics, Machine Learning, and
-            Computational Intelligence" linkedin="">
+            Computational Intelligence" linkedin="https://www.linkedin.com/in/k-tayaranian/">
         </Peopleitem>
 
         <Peopleitem img="salehi.png" name="Mostafa Salehi" grade="M.Sc Student" email="mostafa73salehi@gmail.com"
@@ -279,17 +281,17 @@
       <div class="row text-center my-4">
 
         <Peopleitem img="kohandel.png" name="Reza Kohandel" grade="M.Sc Student" email="rezakohandel9@gmail.com"
-                    research="  Medical Instruments, Microelectronics, Signal Processing" linkedin="">
+                    research="  Medical Instruments, Microelectronics, Signal Processing" linkedin="https://www.linkedin.com/in/rezakohandel/">
         </Peopleitem>
 
         <Peopleitem img="mohamadzade.png" name="Amir Mohammad Mohammad Zadeh" grade="B.Sc Student"
                     email="amirmohammad.m@hotmail.com" research="  Power Electronic, Electronic Circuit Designer,
-Control Drive" linkedin="">
+Control Drive" linkedin="https://www.linkedin.com/in/amirmohammadzadeh-2792841b7/">
         </Peopleitem>
 
         <Peopleitem img="Kazemi.png" name="Mahdi KazemiEsfahani" grade="B.Sc Student"
                     email="m.kazemiesfahani@mail.um.ac.ir" research="  Autonomous Robots, Human-Robot Interaction,
-Vibration, Automation and Control, Machine Learning, Machine Vision, Deep Learning" linkedin="">
+Vibration, Automation and Control, Machine Learning, Machine Vision, Deep Learning" linkedin="https://www.linkedin.com/in/mahdi-kazemi-esfahani/">
         </Peopleitem>
 
       </div>
@@ -298,7 +300,7 @@ Vibration, Automation and Control, Machine Learning, Machine Vision, Deep Learni
       <div class="row text-center my-4">
 
         <Peopleitem img="farsi.png" name="Saleh Farsi" grade="B.Sc Student" email="far30.1999@gmail.com" research="  Autonomous Robots, Human-Robot Interaction,
-Energy Harvesting, AI" linkedin="">
+Energy Harvesting, AI" linkedin="https://www.linkedin.com/in/saleh-farsi-910369162/">
         </Peopleitem>
 
         <Peopleitem
@@ -308,7 +310,7 @@ Energy Harvesting, AI" linkedin="">
           email="rezaei@UnboundGamestudio.com"
           research="  Gamification, Computer Graphics, Robotics,
                       Game Development"
-          linkedin="">
+          linkedin="https://www.linkedin.com/in/moeen-rezaei/">
         </Peopleitem>
 
       </div>
@@ -327,7 +329,9 @@ Energy Harvesting, AI" linkedin="">
           research="Electronics, Software, Miniatruized Devices, Mobile Robots, Robotic
             Control, Biomedical Devices"
           linkedin="https://www.linkedin.com/in/hjafarzadeh/"
+          google="http://hamedj.ir"
           blog="http://hamedj.ir">
+
         </Peopleitem>
 
         <Peopleitem

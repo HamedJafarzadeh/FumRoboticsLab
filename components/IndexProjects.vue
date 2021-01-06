@@ -13,17 +13,17 @@
     </b-row>
     <div style="height: 1vh"/>
     <div class="hjtabgroups" v-show="assistiveRobots">
-      <IndexProjectItem  :is-right="true" project-name="FUM ExoSkeleton - II"  project-subtitle="" project-link="/fumexoskeleton1" project-picture="exo2.png" >
+      <IndexProjectItem  :is-right="true" project-name="FUM ExoSkeleton - II"  project-subtitle="" project-link="/fumexoskeleton2" project-picture="exo2.png" >
         Double joint Light weight Lower limb exoskeleton for rehabilitation
       </IndexProjectItem>
-      <IndexProjectItem :is-right="false" project-name="FUM Exoskeleton - I"  project-subtitle="" project-link="/fumexoskeleton2" project-picture="exo1p.png">
+      <IndexProjectItem :is-right="false" project-name="FUM Exoskeleton - I"  project-subtitle="" project-link="/fumexoskeleton1" project-picture="exo1p.png">
         a hard, laminated plastic shell that provides the weight-bearing support
 
       </IndexProjectItem>
       <IndexProjectItem  :is-right="true" project-name="FUM Hexa"  project-subtitle="" project-link="/fumhexa" project-picture="HEXA.png" >
         Supporting ambulatory functions in the elderly or patients with gait impairment
       </IndexProjectItem>
-      <IndexProjectItem :is-right="false" project-name="FUM Knee Exoskeleton"  project-subtitle="" project-link="/fumkneeexoskeleton" project-picture="fum-knee.png">
+      <IndexProjectItem :is-right="false" project-name="FUM Knee Exoskeleton"  project-subtitle="" project-link="/fumkneeexoskeleton" project-picture="fumkneeExo.jpg">
         Series elastic actuator based knee orthosis
       </IndexProjectItem>
       <IndexProjectItem :is-right="true" project-name="FUM Knee Physio"  project-subtitle="" project-link="/fumkneephysio" project-picture="Physio.png">

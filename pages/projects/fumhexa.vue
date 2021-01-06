@@ -12,6 +12,16 @@
       <div class="row">
         <p style="text-align: justify"> Hip Exoskeleton for Assistance (HEXA) is a wearable robotic system for assistive technology and rehabilitation engineering, primarily developed to help patients with lower limb disabilities to restore or improve their walking ability. The robot consists of two 70 BLDC with Harmonic Drive gearbox, each for either hip; driving the two metal links which are placed parallel to the human thigh and fastened with Velcro straps. HEXA assists disabled people regain their locomotion with significant reduction of the therapists’ physical burden. </p>
       </div>
+      <br>
+      <br>
+
+      <div class="col-lg-12">
+
+        <social-videos youtube-i-d="TLseVuZhDGc" aparat-i-d="hTlAS"/>
+        <br>
+        <br>
+
+      </div>
 
     </div>
 

@@ -69,6 +69,13 @@
       <br>
 
     </div>
+    <div class="col-lg-12" >
+
+      <social-videos youtube-i-d="53ew95fXaxs" aparat-i-d="tovDX"/>
+      <br>
+      <br>
+
+    </div>
   </div>
 </template>
 

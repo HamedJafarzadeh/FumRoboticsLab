@@ -21,6 +21,14 @@
           ideal for research applications
         </li>
       </div>
+      <br>
+      <div class="col-lg-12">
+
+        <social-videos youtube-i-d="q4qnLcl_ljA" aparat-i-d="8xfyN"/>
+        <br>
+        <br>
+
+      </div>
 
 
 

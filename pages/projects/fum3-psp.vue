@@ -14,6 +14,13 @@
         </div>
 
         </div>
+    <div class="col-12 justify-content-center">
+      <br>
+
+      <social-videos youtube-i-d="qjqbLBO0nkw" aparat-i-d="dnX7y"/>
+      <br>
+      <br>
+    </div>
 
 
   </div>

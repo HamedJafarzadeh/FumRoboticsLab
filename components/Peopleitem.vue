@@ -26,7 +26,8 @@ export default {
     email: String,
     research: String,
     linkedin: String,
-    blog: String
+    blog: String,
+    google: String,
   },
 }
 </script>
