@@ -82,7 +82,7 @@
           research="Dual-Task, Outcome Measurment, Postural control, Musculoskeletal,
             Posture"
           linkedin="https://www.linkedin.com/in/hossein-negahban-9539322b/"
-          blog="http://akbazar.profcms.um.ac.ir/">
+          blog="">
 
         </Peopleitem>
 
@@ -168,20 +168,14 @@
          Vision, Programming, Control, Advanced Robotics" linkedin="https://www.linkedin.com/in/amir-hossein-zare-a0329014a/">
         </Peopleitem>
 
-        <Peopleitem img="rahman.png" name="Rahman Ardakanian" grade="Ph.D Student"
-                    email="rahman.ardakanian@mail.um.ac.ir " research="  Industrial and Medical Robots,
-        Mechanism Design, Vibration, Deep Reinforcement Learning, Robustness and Optimization" linkedin="https://www.linkedin.com/in/rahmanardakanian/">
-        </Peopleitem>
+
 
       </div>
       <hr/>
 
       <div class="row text-center my-4">
 
-        <Peopleitem img="vaezi.png" name="Mohammad Rasool Vaezi" grade="Ph.D Student" email="mr_vaezi@mail.um.ac.ir "
-                    research="  Assistive Exoskeleton, Controlling Robots, Adaptive Control,
-            Predictive Control , Advanced Control theory, Designing and Manufacturing Specialized Sensors" linkedin="https://www.linkedin.com/in/mohammad-rasool-vaezi/">
-        </Peopleitem>
+
 
         <Peopleitem img="razavi.png" name="Seyyed Mohammadreza Razavi" grade="Ph.D Student"
                     email="smreza_razavi@yahoo.com " research=" Optimal Control, Robust Control, State/Disturbance Observer, Adaptive
@@ -303,15 +297,7 @@ Vibration, Automation and Control, Machine Learning, Machine Vision, Deep Learni
 Energy Harvesting, AI" linkedin="https://www.linkedin.com/in/saleh-farsi-910369162/">
         </Peopleitem>
 
-        <Peopleitem
-          img="rezaei.png"
-          name="Moein Rezaei"
-          grade="B.Sc Student"
-          email="rezaei@UnboundGamestudio.com"
-          research="  Gamification, Computer Graphics, Robotics,
-                      Game Development"
-          linkedin="https://www.linkedin.com/in/moeen-rezaei/">
-        </Peopleitem>
+
 
       </div>
       <hr/>
@@ -334,24 +320,78 @@ Energy Harvesting, AI" linkedin="https://www.linkedin.com/in/saleh-farsi-9103691
 
         </Peopleitem>
 
-        <Peopleitem
-          img="sinadarivishi.jpg"
-          name="Sina Darvishi"
-          grade="B.Sc Student"
-          email="sinadarvi@gmail.com"
-          research="Android Developer, Software Developer"
-          linkedin="https://www.linkedin.com/in/sina-darvishi-041b0810b/">
+        <Peopleitem img="rahman.png" name="Rahman Ardakanian" grade="Ph.D Student"
+                    email="rahman.ardakanian@mail.um.ac.ir " research="  Industrial and Medical Robots,
+        Mechanism Design, Vibration, Deep Reinforcement Learning, Robustness and Optimization" linkedin="https://www.linkedin.com/in/rahmanardakanian/">
         </Peopleitem>
 
+
         <Peopleitem
-          img="farsadbabazadeh.jpg"
-          name="Farsad Babazadeh"
-          grade="M.Eng.Sc Student"
-          email="farsad.babazadeh@gmail.com"
-          research="Mechanical Design of Machinery and Industrial Robots, (Additive)
-            Manufacturing Technologies, Industry 4.0, Biomechanical Devices"
-          linkedin="https://www.linkedin.com/in/farsadbabazadeh/">
+          img="fattah.jpg"
+          name="Fattah Hanafi"
+          grade="M.Sc Student"
+          email="hanafi.fattah@gmail.com"
+          research="Robotics, Kinematics, Trajectory Generation, Dynamics, Industrial Robots  "
+          linkedin="https://www.linkedin.com/in/fattah-hanafi/">
         </Peopleitem>
+
+
+
+      </b-row>
+
+      <b-row class="text-center my-4">
+        <Peopleitem img="shariati.png" name="Morteza Shariatee" grade="M.sc Student" email="morteza_shariatee_sc@yahoo.com "
+                    research="  Human Robot Interaction, Medical Robotics, Control Trajectory Planning,
+Computer Vision, Machine Learning, Self Driving Cars" linkedin="https://www.linkedin.com/in/mortezashariatee">
+        </Peopleitem>
+
+        <Peopleitem img="atashin.am.png" name="Amir Ahooye Atashin" grade="M.sc Student" email="amir.atashin@gmail.com "
+                    research="  Neural Networks, Sequence Modeling" linkedin="https://www.linkedin.com/in/amir-atashin/">
+        </Peopleitem>
+
+        <Peopleitem img="baghyari.jpg" name="Farhad Baghyari" grade="M.sc Student" email="f.baghyari@yahoo.com "
+                    research="  Motion simulators, Industrial Robots, Dynamics, Optimization, Programming, Robotics"
+                    linkedin="https://www.linkedin.com/in/farhad-baghyari-1ab4b889/">
+        </Peopleitem>
+
+
+
+
+
+
+      </b-row>
+
+
+
+        <b-row class="text-center my-4">
+
+          <Peopleitem
+            img="sinadarivishi.jpg"
+            name="Sina Darvishi"
+            grade="B.Sc Student"
+            email="sinadarvi@gmail.com"
+            research="Android Developer, Software Developer"
+            linkedin="https://www.linkedin.com/in/sina-darvishi-041b0810b/">
+          </Peopleitem>
+
+          <Peopleitem img="vaezi.png" name="Mohammad Rasool Vaezi" grade="Ph.D Student" email="mr_vaezi@mail.um.ac.ir "
+                      research="  Assistive Exoskeleton, Controlling Robots, Adaptive Control,
+            Predictive Control , Advanced Control theory" linkedin="https://www.linkedin.com/in/mohammad-rasool-vaezi/">
+          </Peopleitem>
+
+
+
+          <Peopleitem
+            img="farsadbabazadeh.jpg"
+            name="Farsad Babazadeh"
+            grade="M.Eng.Sc Student"
+            email="farsad.babazadeh@gmail.com"
+            research="Mechanical Design of Machinery and Industrial Robots, (Additive)
+            Manufacturing Technologies, Industry 4.0, Biomechanical Devices"
+            linkedin="https://www.linkedin.com/in/farsadbabazadeh/">
+          </Peopleitem>
+
+
 
 
       </b-row>
@@ -418,6 +458,20 @@ Energy Harvesting, AI" linkedin="https://www.linkedin.com/in/saleh-farsi-9103691
 
 
       </b-row>
+      <b-row class="text-center">
+        <Peopleitem
+          img="rezaei.png"
+          name="Moein Rezaei"
+          grade="B.Sc Student"
+          email="rezaei@UnboundGamestudio.com"
+          research="  Gamification, Computer Graphics, Robotics,
+                      Game Development"
+          linkedin="https://www.linkedin.com/in/moeen-rezaei/">
+        </Peopleitem>
+      </b-row>
+
+
+
     </div>
       <div class="row mt-5 ">
         <div class="col text-center justify-content-center">

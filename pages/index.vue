@@ -1,10 +1,10 @@
 <template>
-  <div id="page-wrapper">
+  <div id="page-wrapper" style="width: 99%">
 
     <FirstSection/>
 
     <section class="spotlight style1 bottom" id="about" >
-      <span class="imagemain"><img src="~/assets/lab.jpg" alt="" style="width: 100%"/></span>
+      <span class="imagemain"></span>
       <div class="content">
         <div class="container">
           <div class="row">
@@ -18,8 +18,13 @@
        <div class="row">
               <p style="text-align: justify">The Robotics Laboratory of Ferdowsi University of Mashhad (FUM Robotics) was established in 2010. As one of the most comprehensive centers for multi-disciplinary robotics research in Iran, our lab is dedicated not only to education and research, but also addressing industrial needs. The Center is led by Professor Alireza Akbarzadeh and is composed of academic faculty and researchers, providing undergrad, MSs, and PhD students with necessary tools to enhance their knowledge and working expertise in this field.
                 The laboratory currently encompasses four specialized interdisciplinary working groups in the fields of medical and rehabilitation robotics, industrial robotic arms, robotic simulators, and mobile platforms. These fields in turn employ the collaborative output of dynamic design and modeling, optimization, control and construction. The lab provides space for on-site robot design, with a dedicated workshop and conference room, and is able to accommodate over 30 attendees.
-                High quality research and productivity is evidenced by satisfactory execution of contracts with a value of 26 billion Rials during the last 6 years. We are one of the most vigorous and highly-equipped robotics laboratories in the country, benefiting from the cooperation of the University's soft computing hub and providing close communication with other researchers in Iranian universities and abroad. Our ambition is to create a focal point for advanced robotics studies by providing world-class research and teaching.</p>
-            </div>
+                High quality research and productivity is evidenced by satisfactory execution of
+                contracts with a value of 26 billion Rials during the last 6 years. We are one of th
+                e most vigorous and highly-equipped robotics laboratories in the country, benefiting
+                from the cooperation of the University's soft computing hub and providing close communication
+                with other researchers in Iranian universities and abroad. Our ambition is to create a focal point
+                for advanced robotics studies by providing world-class research and teaching.</p>
+       </div>
           </div>
 
 
