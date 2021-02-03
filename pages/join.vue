@@ -1,11 +1,16 @@
 <template>
   <div id="page-wrapper">
     <div class="content container">
+
       <br>
+      <span class="imagemain"> <img src="~/assets/lab.jpg" alt="" style="width: 100%"></span>
       <br>
       <h1>
         Join Us !
       </h1>
+
+
+
       <h3>We’re inviting talented people in a variety of technical and nontechnical roles to join our team in Ferdowsi University of Mashhad.</h3>
       We are continuously searching for EXCELLENT students that want to work on
       <ul>

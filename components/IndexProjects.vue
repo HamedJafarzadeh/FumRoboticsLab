@@ -30,6 +30,14 @@
         Knee rehabilitation enabling game based therapy
       </IndexProjectItem>
 
+      <IndexProjectItem :is-right="false" project-name="FUM Foot Sensor"  project-subtitle="" project-link="/fumfootsensor" project-picture="footsensor.png">
+        Foot Sensor
+      </IndexProjectItem>
+
+      <IndexProjectItem :is-right="true" project-name="FUM EMG"  project-subtitle="" project-link="/fumEMG" project-picture="emg.png">
+       For evaluating and recording a series of electrical signals that emanate from body muscles
+      </IndexProjectItem>
+
 
     </div>
 
@@ -84,7 +92,7 @@
         Mid-size 6-DoF parallel manipulator as a motion simulator
       </IndexProjectItem>
 
-      <IndexProjectItem :is-right="false" project-name="FUM Mini 6DOF Parallel Robot"  project-subtitle="" project-link="/fummini6dof" project-picture="NoPic.png">
+      <IndexProjectItem :is-right="false" project-name="FUM Mini 6DOF Parallel Robot"  project-subtitle="" project-link="/fummini6dof" project-picture="ministewart.png">
         Mini 6-DoF parallel manipulator as a motion simulator
       </IndexProjectItem>
 
