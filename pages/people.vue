@@ -15,16 +15,7 @@
 
       <div class="row text-center my-4">
 
-        <Peopleitem
-          img="ali_akbarzadeh.jpg"
-          name="Alireza Akbarzadeh"
-          grade="Professor"
-          email="ali_akbarzadeh@um.ac.ir"
-          research="Rehabilitation Robotics, Parallel and Industrial Robots, Dynamics, Control, Applied Statistics"
-          linkedin="https://www.linkedin.com/in/alireza-akbarzadeh-829289203/"
-          blog="http://ali_akbarzadeh.profcms.um.ac.ir/">
 
-        </Peopleitem>
 
         <Peopleitem
           img="kardan.jpg"
@@ -37,6 +28,16 @@
 
         </Peopleitem>
 
+        <Peopleitem
+          img="ali_akbarzadeh.jpg"
+          name="Alireza Akbarzadeh"
+          grade="Professor"
+          email="ali_akbarzadeh@um.ac.ir"
+          research="Rehabilitation Robotics, Parallel and Industrial Robots, Dynamics, Control, Applied Statistics"
+          linkedin="https://www.linkedin.com/in/alireza-akbarzadeh-829289203/"
+          blog="http://ali_akbarzadeh.profcms.um.ac.ir/">
+
+        </Peopleitem>
 
 
         <Peopleitem

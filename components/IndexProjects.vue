@@ -35,7 +35,7 @@
       </IndexProjectItem>
 
       <IndexProjectItem :is-right="true" project-name="FUM EMG"  project-subtitle="" project-link="/fumEMG" project-picture="emg.png">
-       For evaluating and recording a series of electrical signals that emanate from body muscles
+        Electromyography (EMG) is a device for evaluating and recording a series of electrical signals that emanate from body muscles
       </IndexProjectItem>
 
 
