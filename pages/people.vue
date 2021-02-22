@@ -110,7 +110,7 @@
 
 
         <Peopleitem
-          img="gharib.png"
+          img="gharib.jpg"
           name="Mohammad Reza Gharib"
           grade="Assistant Professor"
           email="m.gharib@torbath.ac.ir"
@@ -121,7 +121,7 @@
         </Peopleitem>
 
         <Peopleitem
-          img="koochi.png"
+          img="koochi.jpg"
           name="Ali Koochi"
           grade="Assistant Professor"
           email="a.koochi@torbath.ac.ir"
@@ -134,7 +134,7 @@
 
 
         <Peopleitem
-          img="gohari.png"
+          img="gohari.jpg"
           name="Masoud Goharimanesh"
           grade="Assistant Professor"
           email="m.goharimanesh@torbath.ac.ir"
@@ -154,19 +154,19 @@
 
 
       <div class="row text-center my-4">
-        <Peopleitem img="alishiva.png" name="Ali Shiva" grade="Postdoctoral Researcher" email="foroudalishiva@yahoo.com"
+        <Peopleitem img="alishiva.jpg" name="Ali Shiva" grade="Postdoctoral Researcher" email="foroudalishiva@yahoo.com"
                     research=" Robotics, Soft Robotics, Dynamics,
         Multi Body Dynamics, Control
             Engineering, Morphological Computation" linkedin="https://www.linkedin.com/in/ali-shiva-83374882/">
         </Peopleitem>
 
-        <Peopleitem img="tahami.jpg" name="Seyed Mohammad Tahamipour-Z." grade="Associate Researcher"
+        <Peopleitem img="tahami.jpg" name="Seyed Mohammad Tahamipour-Z." grade="Senior Researcher"
                     email="tahamipourzarandi@mail.um.ac.ir " research="  Robotics,
         Rehabilitation Robots, Nonlinear Control Application,
             Artificial Inteligence" linkedin="https://www.linkedin.com/in/s-mohammad-tahamipour-z-87623a82/">
         </Peopleitem>
 
-        <Peopleitem img="aminian.png" name="Ebrahim Aminian" grade="Technical Manager"
+        <Peopleitem img="aminian.jpg" name="Ebrahim Aminian" grade="Technical Manager"
                     email="ebrahimaminian_phd@yahoo.com" research=" Robotic Control,
         Industrial Robot, Mechanical Robot Design" linkedin="https://www.linkedin.com/in/ebrahim-aminian-1b91b282/">
         </Peopleitem>
@@ -176,20 +176,20 @@
       <hr/>
       <div class="row text-center my-4">
 
-        <Peopleitem img="amini.png" name="Samane Amini" grade="Ph.D Student" email="amini.samane@ymail.com " research="Medical and Rehabilitation Robotics,
+        <Peopleitem img="amini.jpg" name="Samane Amini" grade="Ph.D Student" email="amini.samane@ymail.com " research="Medical and Rehabilitation Robotics,
         Bio-Inspired Robot, Assistive
             control, Dynamic and Control Humanoid Robots, Assistive Devices"
                     linkedin="https://www.linkedin.com/in/samane-amini-a376ba52/">
         </Peopleitem>
 
-        <Peopleitem img="khaniki.png" name="Omid Khaniki" grade="Ph.D Student" email="Omid.Khaniki@mail.um.ac.ir "
+        <Peopleitem img="khaniki.jpg" name="Omid Khaniki" grade="Ph.D Student" email="Omid.Khaniki@mail.um.ac.ir "
                     research="  Optimization, Neuromusculoskeletal Modeling,
         Robotics, BioRobotics
             ,Rehabilitation, Artificial Intelligence, Digital Twin, Machine Design"
                     linkedin="https://www.linkedin.com/in/omid-khaniki/">
         </Peopleitem>
 
-        <Peopleitem img="mogharebi.png" name="Mostafa Moqarabi" grade="Ph.D Student"
+        <Peopleitem img="mogharebi.jpg" name="Mostafa Moqarabi" grade="Ph.D Student"
                     email="Mostafa.Mogharabi@gmail.com " research="  Robotic Control,
         Control of Human Exoskeletons, Robotic and Human
             Engineering" linkedin="https://www.linkedin.com/in/mostafa-moqarabi-911b94204/">
@@ -204,10 +204,10 @@
 
         <Peopleitem img="malekzade.jpg" name="Mohammad Malekzadeh Arasteh" grade="Ph.D Student"
                     email="Mohammad.Malek132@gmail.com " research="  Humanoid Robotics,
-        Legged Robotics, Continuous Passive Motion and Controlled Active Motion Devices" linkedin="https://www.linkedin.com/in/mohammad-malek-392ba786/">
+        Legged Locomotion, Optimal Control" linkedin="https://www.linkedin.com/in/mohammad-malek-392ba786/">
         </Peopleitem>
 
-        <Peopleitem img="zare.png" name="Amir Hossein Zare" grade="Ph.D Student" email="amir.h.zare1991@gmail.com"
+        <Peopleitem img="zare.jpg" name="Amir Hossein Zare" grade="Ph.D Student" email="amir.h.zare1991@gmail.com"
                     research="  Machine Learning, Reinforcement Learning,
          Vision, Programming, Control, Advanced Robotics" linkedin="https://www.linkedin.com/in/amir-hossein-zare-a0329014a/">
         </Peopleitem>
@@ -221,12 +221,12 @@
 
 
 
-        <Peopleitem img="razavi.png" name="Seyyed Mohammadreza Razavi" grade="Ph.D Student"
+        <Peopleitem img="razavi.jpg" name="Seyyed Mohammadreza Razavi" grade="Ph.D Student"
                     email="smreza_razavi@yahoo.com " research=" Optimal Control, Robust Control, State/Disturbance Observer, Adaptive
             Control" linkedin="">
         </Peopleitem>
 
-        <Peopleitem img="mosadegh.png" name="Hamidreza Mosaddegh Hesar" grade="Associate Researcher"
+        <Peopleitem img="mosadegh.jpg" name="Hamidreza Mosaddegh Hesar" grade="Associate Researcher"
                     email="hamid.mosaddegh@yahoo.com " research="  Variable-Speed AC Drives, Power Electronics, Electrical Machine
             Design, Nonlinear Control, Renewable Energy Technologies" linkedin="https://www.linkedin.com/in/hamidreza-mosaddegh-12314979/">
         </Peopleitem>
@@ -247,17 +247,17 @@
 
       <div class="row text-center my-4">
 
-        <Peopleitem img="shahabi.png" name="Mohammad Entekhab Shahabi" grade="M.Sc Student"
+        <Peopleitem img="shahabi.jpg" name="Mohammad Entekhab Shahabi" grade="M.Sc Student"
                     email="m.en.shahabi@gmail.com " research="  Mechanical Design, Robotics, Robot-Assisted Physiotherapy and Robotic
             Rehabilitation, Flexible-Link Robots, Impedance Control, Fuzzy Control, Dynamic Simulation, Vibration
             Control, Artificial Neural Networks" linkedin="https://www.linkedin.com/in/mohammad-entekhab-shahabi-19685b81/">
         </Peopleitem>
 
-        <Peopleitem img="makhdoomi.png" name="Arian Makhdoomi" grade="M.Sc Student" email="makhdumiaryan@gmail.com"
+        <Peopleitem img="makhdoomi.jpg" name="Arian Makhdoomi" grade="M.Sc Student" email="makhdumiaryan@gmail.com"
                     research=" Electronic Circuit Design, Electrical Machine Design, Power
             Electronics, Analog Electronics, Control System Design" linkedin="https://www.linkedin.com/in/aryan-makhdoumi-55280953/">
         </Peopleitem>
-        <Peopleitem img="amin.png" name="Amin Akhavan Saffar" grade="M.Sc Student" email="aminakhavan75@gmail.com"
+        <Peopleitem img="amin.jpg" name="Amin Akhavan Saffar" grade="M.Sc Student" email="aminakhavan75@gmail.com"
                     research=" Deep Learning, Generative Models, Deep Reinforcement Learning, natural language understanding,
                      Computer Vision, Human robot interaction, Neuromusculoskeletal modeling, Rehabilitation Robotics" linkedin="https://www.linkedin.com/in/amin-akhavan/"
                     blog="https://amins.ir/">
@@ -269,19 +269,19 @@
       <hr/>
       <div class="row text-center my-4">
 
-        <Peopleitem img="atashin.png" name="Soroush Ahooye Atashin" grade="Associate Researcher"
+        <Peopleitem img="atashin.jpg" name="Soroush Ahooye Atashin" grade="Associate Researcher"
                     email="s.atasheen@yahoo.com" research=" Control Drives,
         Power Electronics, Electrical Machine Design" linkedin="https://www.linkedin.com/in/soroush-atashin-0a02b9125/">
         </Peopleitem>
 
-        <Peopleitem img="forutan.png" name="Ali Forutanian" grade="M.Sc Student" email="aliforoutanni@gmail.com"
+        <Peopleitem img="forutan.jpg" name="Ali Forutanian" grade="M.Sc Student" email="aliforoutanni@gmail.com"
                     research=" Neuroimaging, Brain Connectivity,
         Cognitive Process, Brain Functional
             Modelling, linguistics Processing, Biomedical Signal Processing, Complex Systems, Nonlinear Dynamics,
             Chaotic System, Artificial Intelligence" linkedin="https://www.linkedin.com/in/ali-foroutannia-7730a8129/">
         </Peopleitem>
 
-        <Peopleitem img="maleki.png" name="Amirkhosro Maleki" grade="M.Sc Student"
+        <Peopleitem img="maleki.jpg" name="Amirkhosro Maleki" grade="M.Sc Student"
                     email="maleki.amirkhosro@mail.um.ac.ir" research="  Artificial Intelligence Methods in Vital Signs Analysis for
             Controlling Rehabilitation Robots, Instrumentation Control and Automation, Medical Image processing"
                     linkedin="https://www.linkedin.com/in/amirkhosro-maleki-447994172/">
@@ -292,16 +292,16 @@
       <hr/>
       <div class="row text-center my-4">
 
-        <Peopleitem img="sabzali.png" name="Hojjat Sabzali" grade="M.Sc Student" email="hsabzali@mail.um.ac.ir"
+        <Peopleitem img="sabzali.jpg" name="Hojjat Sabzali" grade="M.Sc Student" email="hsabzali@mail.um.ac.ir"
                     research="  Exoskeleton Robots, Mechanical Engineering Design, FEM Analysis, Control of Series Robots" linkedin="https://www.linkedin.com/in/hojjat-sabzali/">
         </Peopleitem>
 
-        <Peopleitem img="soltani.png" name="Arezoo Soltani" grade="M.Sc Student" email="Arezooslt49@gmail.com"
+        <Peopleitem img="soltani.jpg" name="Arezoo Soltani" grade="M.Sc Student" email="Arezooslt49@gmail.com"
                     research="  Neurorehabilitation, Biological Signal Processing, Artificial Neural
             Network" linkedin="https://www.linkedin.com/in/arezoo-soltani-282ab8153/">
         </Peopleitem>
 
-        <Peopleitem img="eskandari.png" name="Mohammad Hassan Eskandari" grade="M.Sc Student"
+        <Peopleitem img="eskandari.jpg" name="Mohammad Hassan Eskandari" grade="M.Sc Student"
                     email="mmh_eskandari@outlook.com" research="  Serious Games, Human-Computer Interaction, Information
             Visualization" linkedin="https://www.linkedin.com/in/mh-eskandari/">
         </Peopleitem>
@@ -310,18 +310,18 @@
       <hr/>
       <div class="row text-center my-4">
 
-        <Peopleitem img="gholamian.png" name="Farzaneh Gholamian" grade="Associate Researcher"
+        <Peopleitem img="gholamian.jpg" name="Farzaneh Gholamian" grade="Associate Researcher"
                     email="F_gholamian@sut.ac.ir" research=" Rehabilitation,
         Bone Biomechanics, Finite Element Analysis,
             Implants " linkedin="https://www.linkedin.com/in/farzaneh-gholamian-6439a880/">
         </Peopleitem>
 
-        <Peopleitem img="tayarani.png" name="Keyvan Tayaranian Marvian" grade="B.Sc Student"
+        <Peopleitem img="tayarani.jpg" name="Keyvan Tayaranian Marvian" grade="B.Sc Student"
                     email="k.tayaranianmarvian@mail.um.ac.ir" research=" Control Theory, Rehabilitation Robotics, Machine Learning, and
             Computational Intelligence" linkedin="https://www.linkedin.com/in/k-tayaranian/">
         </Peopleitem>
 
-        <Peopleitem img="salehi.png" name="Mostafa Salehi" grade="M.Sc Student" email="mostafa73salehi@gmail.com"
+        <Peopleitem img="salehi.jpg" name="Mostafa Salehi" grade="M.Sc Student" email="mostafa73salehi@gmail.com"
                     research="  Robotic Control,
          Electronic in Robotic" linkedin="">
         </Peopleitem>
@@ -332,16 +332,16 @@
       <hr/>
       <div class="row text-center my-4">
 
-        <Peopleitem img="kohandel.png" name="Reza Kohandel" grade="M.Sc Student" email="rezakohandel9@gmail.com"
+        <Peopleitem img="kohandel.jpg" name="Reza Kohandel" grade="M.Sc Student" email="rezakohandel9@gmail.com"
                     research="  Medical Instruments, Microelectronics, Signal Processing" linkedin="https://www.linkedin.com/in/rezakohandel/">
         </Peopleitem>
 
-        <Peopleitem img="mohamadzade.png" name="Amir Mohammad Mohammad Zadeh" grade="B.Sc Student"
+        <Peopleitem img="mohamadzade.jpg" name="Amir Mohammad Mohammad Zadeh" grade="B.Sc Student"
                     email="amirmohammad.m@hotmail.com" research="  Power Electronic, Electronic Circuit Designer,
 Control Drive" linkedin="https://www.linkedin.com/in/amirmohammadzadeh-2792841b7/">
         </Peopleitem>
 
-        <Peopleitem img="Kazemi.png" name="Mahdi KazemiEsfahani" grade="B.Sc Student"
+        <Peopleitem img="Kazemi.jpg" name="Mahdi KazemiEsfahani" grade="B.Sc Student"
                     email="m.kazemiesfahani@mail.um.ac.ir" research="  Autonomous Robots, Human-Robot Interaction,
 Vibration, Automation and Control, Machine Learning, Machine Vision, Deep Learning" linkedin="https://www.linkedin.com/in/mahdi-kazemi-esfahani/">
         </Peopleitem>
@@ -351,7 +351,7 @@ Vibration, Automation and Control, Machine Learning, Machine Vision, Deep Learni
       <hr/>
       <div class="row text-center my-4">
 
-        <Peopleitem img="farsi.png" name="Saleh Farsi" grade="B.Sc Student" email="far30.1999@gmail.com" research="  Autonomous Robots, Human-Robot Interaction,
+        <Peopleitem img="farsi.jpg" name="Saleh Farsi" grade="B.Sc Student" email="far30.1999@gmail.com" research="  Autonomous Robots, Human-Robot Interaction,
 Energy Harvesting, AI" linkedin="https://www.linkedin.com/in/saleh-farsi-910369162/">
         </Peopleitem>
 
@@ -378,7 +378,7 @@ Energy Harvesting, AI" linkedin="https://www.linkedin.com/in/saleh-farsi-9103691
 
         </Peopleitem>
 
-        <Peopleitem img="rahman.png" name="Rahman Ardakanian" grade="Ph.D Student"
+        <Peopleitem img="rahman.jpg" name="Rahman Ardakanian" grade="Ph.D Student"
                     email="rahman.ardakanian@mail.um.ac.ir " research="  Industrial and Medical Robots,
         Mechanism Design, Vibration, Deep Reinforcement Learning, Robustness and Optimization" linkedin="https://www.linkedin.com/in/rahmanardakanian/">
         </Peopleitem>
@@ -399,12 +399,12 @@ Energy Harvesting, AI" linkedin="https://www.linkedin.com/in/saleh-farsi-9103691
       <hr/>
 
       <b-row class="text-center my-4">
-        <Peopleitem img="shariati.png" name="Morteza Shariatee" grade="M.sc Student" email="morteza_shariatee_sc@yahoo.com "
+        <Peopleitem img="shariati.jpg" name="Morteza Shariatee" grade="M.sc Student" email="morteza_shariatee_sc@yahoo.com "
                     research="  Human Robot Interaction, Medical Robotics, Control Trajectory Planning,
 Computer Vision, Machine Learning, Self Driving Cars" linkedin="https://www.linkedin.com/in/mortezashariatee">
         </Peopleitem>
 
-        <Peopleitem img="atashin.am.png" name="Amir Ahooye Atashin" grade="M.sc Student" email="amir.atashin@gmail.com "
+        <Peopleitem img="atashin.am.jpg" name="Amir Ahooye Atashin" grade="M.sc Student" email="amir.atashin@gmail.com "
                     research="  Neural Networks, Sequence Modeling" linkedin="https://www.linkedin.com/in/amir-atashin/">
         </Peopleitem>
 
@@ -433,7 +433,7 @@ Computer Vision, Machine Learning, Self Driving Cars" linkedin="https://www.link
             linkedin="https://www.linkedin.com/in/sina-darvishi-041b0810b/">
           </Peopleitem>
 
-          <Peopleitem img="vaezi.png" name="Mohammad Rasool Vaezi" grade="Ph.D Student" email="mr_vaezi@mail.um.ac.ir "
+          <Peopleitem img="vaezi.jpg" name="Mohammad Rasool Vaezi" grade="Ph.D Student" email="mr_vaezi@mail.um.ac.ir "
                       research="  Assistive Exoskeleton, Controlling Robots, Adaptive Control,
             Predictive Control , Advanced Control theory" linkedin="https://www.linkedin.com/in/mohammad-rasool-vaezi/">
           </Peopleitem>
@@ -500,12 +500,12 @@ Computer Vision, Machine Learning, Self Driving Cars" linkedin="https://www.link
         </Peopleitem>
 
         <Peopleitem
-          img="javad.png"
+          img="javad.jpg"
           name="Javad Mahdavian"
           grade="B.Sc Student"
           email="jd.mn98@yahoo.com"
           research="windows desktop developer , Software Developer , Cloud interest"
-          linkedin="https://www.linkedin.com/in/taraneh-qandi/">
+          linkedin="https://www.linkedin.com/in/javad-mahdavian/">
         </Peopleitem>
 
         <Peopleitem
@@ -523,7 +523,7 @@ Computer Vision, Machine Learning, Self Driving Cars" linkedin="https://www.link
       <hr/>
       <b-row class="text-center">
         <Peopleitem
-          img="rezaei.png"
+          img="rezaei.jpg"
           name="Moein Rezaei"
           grade="B.Sc Student"
           email="rezaei@UnboundGamestudio.com"

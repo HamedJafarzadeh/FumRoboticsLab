@@ -22,10 +22,10 @@
         </b-col>
         <b-col lg="6" md="6" sm="12" class="d-flex align-content-center text-center">
           <div style=" min-height: 60vh;float:left; min-width: 20vw" class="">
-            <span  class="slider image fade-in circleCrop"><img class="sliderimg" src="~/assets/Robot.png" alt=""/></span>
+            <span  class="slider image fade-in circleCrop"><img class="sliderimg"  src="~/assets/Robot.png" alt=""/></span>
             <span  class="slider image fade-out" style="display: none"><img class="sliderimg" src="~/assets/ProjectPictures/6r.png" alt=""/></span>
             <span  class="slider image fade-out" style="display: none"><img class="sliderimg"  src="~/assets/ProjectPictures/hand2.png" alt=""/></span>
-            <span  class="slider image fade-out" style="display: none"><img class="sliderimg" src="~/assets/ProjectPictures/fumstewartmidsize.png" alt=""/></span>
+            <span  class="slider image fade-out" style="display: none"><img class="sliderimg" style="width: 100%; height: 200%" src="~/assets/ProjectPictures/fumstewartmidsize.png" alt=""/></span>
             <span  class="slider image fade-out" style="display: none"><img class="sliderimg" src="~/assets/ProjectPictures/exo1p.png" alt=""/></span>
             <span  class="slider image fade-out" style="display: none"><img class="sliderimg" src="~/assets/ProjectPictures/exo2.png" alt=""/></span>
             <span  class="slider image fade-out" style="display: none"><img class="sliderimg" src="~/assets/ProjectPictures/Zippy.png" alt=""/></span>
@@ -33,7 +33,9 @@
             <span  class="slider image fade-out" style="display: none"><img class="sliderimg" src="~/assets/ProjectPictures/fumvirub.png" alt=""/></span>
             <span  class="slider image fade-out" style="display: none"><img class="sliderimg" src="~/assets/ProjectPictures/lpsimulator.png" alt=""/></span>
             <span  class="slider image fade-out" style="display: none"><img class="sliderimg" src="~/assets/ProjectPictures/FUM-Lawnmower.png" alt=""/></span>
-            <span  class="slider image fade-out" style="display: none"><img class="sliderimg" src="~/assets/ProjectPictures/linearactuator1.png" alt=""/></span>
+            <span  class="slider image fade-out" style="display: none" ><img class="sliderimg" src="~/assets/ProjectPictures/linearactuator1.png" alt=""/></span>
+            <span  class="slider image fade-out" style="display: none" ><img class="sliderimg" src="~/assets/ProjectPictures/emg.png" alt=""/></span>
+            <span  class="slider image fade-out" style="display: none" ><img class="sliderimg" src="~/assets/ProjectPictures/footsensor.png" alt=""/></span>
           </div>
         </b-col>
       </b-row>

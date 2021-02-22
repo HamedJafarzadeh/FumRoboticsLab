@@ -26,8 +26,11 @@
 
 
       <br>
+
       <br>
+      <social-videos youtube-i-d="gZXehtqiUMY" aparat-i-d="jlcFt"/>
       <br>
+
     </div>
   </div>
 </template>
