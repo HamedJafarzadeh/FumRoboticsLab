@@ -11,6 +11,7 @@
       <a class="col-lg-2 col-md-3 hjtabsTitle" :class="{selected:mobileRobots}" v-on:click="tabClick('mobile')">Mobile Robots</a>
       <a class="col-lg-2 col-md-3 hjtabsTitle" :class="{selected:actuatorRobots}" v-on:click="tabClick('actuator')">Actuators</a>
     </b-row>
+
     <div style="height: 1vh"/>
     <div class="hjtabgroups" v-show="assistiveRobots">
       <IndexProjectItem  :is-right="true" project-name="FUM ExoSkeleton - II"  project-subtitle="" project-link="/fumexoskeleton2" project-picture="exo2.png" >
