@@ -32,15 +32,28 @@
         <li>Applications: Precision insertion, High speed packaging</li>
       </div>
       <br>
-      <br>
-      <br>
 
 
+    </div>
+    <br>
+    <br>
+
+    <div id="social-videos"; style="text-align: center">
+      <a  style= "font-size:20pt ; font:bolder; color: #EAD703; text-align: center; "  href="#social-videos"> Click here to watch the movie </a>
 
     </div>
 
 
-    <div class="col-lg-12">
+    <div id="social-videos";  class="col-lg-12">
+      <social-videos youtube-i-d="GxXFAnqObPk" aparat-i-d="taTdj"/>
+
+
+      <br>
+
+    </div>
+
+
+    <div id="social-videos"; class="col-lg-12">
 
       <social-videos youtube-i-d="265jkRlHiVY" aparat-i-d="2P35d"/>
       <br>

@@ -19,8 +19,14 @@
           The current FUM exoskeleton accommodates an extensive array of sensors integrated with an advanced control system, enabling full movement control. The modular and adjustable design allows the user to independently wear and remove each segment of the robot, and can comfortably be worn while seated in a wheelchair. The overall weight is less than 22 kg while producing a maximum speed of 0.5m/s. Batteries allow 2 hours of continuous or 8 hours of intermittent walk.
         </p>
         <br>
+      </div>
+        <div id="social-videos"; style="text-align: center">
+          <a  style= "font-size:20pt ; font:bolder; color: #EAD703; text-align: center; "  href="#social-videos"> Click here to watch the movie </a>
+
+        </div>
+
         <br>
-       <div class="col-lg-12">
+       <div id="social-videos"; class="col-lg-12">
          <social-videos youtube-i-d="GxXFAnqObPk" aparat-i-d="taTdj"/>
 
 
@@ -37,7 +43,7 @@
         </div>
 
 
-      </div>
+
       <br>
       <br>
       <br>
