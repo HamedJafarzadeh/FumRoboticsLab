@@ -27,8 +27,18 @@
 
       <br>
 
+      <div id="social-videos"; style="text-align: center">
+        <a  style= "font-size:20pt ; font:bolder; color: #EAD703; text-align: center; "  href="#social-videos"> Click here to watch the movie </a>
+
+      </div>
       <br>
-      <social-videos youtube-i-d="gZXehtqiUMY" aparat-i-d="jlcFt"/>
+      <div id="social-videos"; class="col-lg-12" >
+
+        <social-videos youtube-i-d="gZXehtqiUMY" aparat-i-d="jlcFt"/>
+        <br>
+        <br>
+
+      </div>
       <br>
 
     </div>

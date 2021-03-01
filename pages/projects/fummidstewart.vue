@@ -65,9 +65,14 @@
 
         </div>
       </div>
+      <br>
+      <div id="social-videos"; style="text-align: center">
+        <a  style= "font-size:20pt ; font:bolder; color: #EAD703; text-align: center; "  href="#social-videos"> Click here to watch the movie </a>
 
-      <div class="col-lg-12">
-        <br>
+      </div>
+
+      <div id="social-videos"; class="col-lg-12">
+
         <br>
 
         <social-videos youtube-i-d="Tn-C90-R8ns" aparat-i-d="ESu0H"/>

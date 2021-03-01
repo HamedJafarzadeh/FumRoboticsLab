@@ -106,54 +106,8 @@
 
       <hr/>
 
-      <div class="row text-center my-4">
 
-
-        <Peopleitem
-          img="gharib.jpg"
-          name="Mohammad Reza Gharib"
-          grade="Assistant Professor"
-          email="m.gharib@torbath.ac.ir"
-          research="Modeling Systems, MEMS and NEMS Control, Robust control, Robotics"
-          linkedin="https://www.linkedin.com/in/mohammad-reza-gharib-04495b36/?originalSubdomain=ir"
-          blog="">
-
-        </Peopleitem>
-
-        <Peopleitem
-          img="koochi.jpg"
-          name="Ali Koochi"
-          grade="Assistant Professor"
-          email="a.koochi@torbath.ac.ir"
-          research="Dynamics, Micro and Nano Robotics"
-          linkedin="https://www.linkedin.com/in/ali-koochi/?originalSubdomain=ir"
-          blog="">
-
-        </Peopleitem>
-
-
-
-        <Peopleitem
-          img="gohari.jpg"
-          name="Masoud Goharimanesh"
-          grade="Assistant Professor"
-          email="m.goharimanesh@torbath.ac.ir"
-          research="Control, Robotics, Genetic Algorithm, Taguchi Method and Vehicle Modelling"
-          linkedin="https://www.linkedin.com/in/goharimanesh/"
-          blog="">
-
-        </Peopleitem>
-
-      </div>
-
-      <hr/>
-
-
-
-
-
-
-      <div class="row text-center my-4">
+     <div class="row text-center my-4">
         <Peopleitem img="alishiva.jpg" name="Ali Shiva" grade="Postdoctoral Researcher" email="foroudalishiva@yahoo.com"
                     research=" Robotics, Soft Robotics, Dynamics,
         Multi Body Dynamics, Control
@@ -352,7 +306,11 @@ Vibration, Automation and Control, Machine Learning, Machine Vision, Deep Learni
       <div class="row text-center my-4">
 
         <Peopleitem img="farsi.jpg" name="Saleh Farsi" grade="B.Sc Student" email="far30.1999@gmail.com" research="  Autonomous Robots, Human-Robot Interaction,
-Energy Harvesting, AI" linkedin="https://www.linkedin.com/in/saleh-farsi-910369162/">
+        Energy Harvesting, AI" linkedin="https://www.linkedin.com/in/saleh-farsi-910369162/">
+        </Peopleitem>
+
+        <Peopleitem img="nazari.jpg" name="Amir Hossein Nazari" grade="B.Sc Student" email="amirhossein.nazari@mail.um.ac.ir" research="Autonomous Robots, Human-Robot Interaction, Hydraulics and Pneumatics ,
+         Fuzzy Control , Natural language processing, Data science" linkedin="https://www.linkedin.com/in/nazari-amirhossein">
         </Peopleitem>
 
 
@@ -364,6 +322,47 @@ Energy Harvesting, AI" linkedin="https://www.linkedin.com/in/saleh-farsi-9103691
           <h2>Alumni</h2>
         </b-col>
       </b-row>
+      <b-row class="text-center my-4">
+        <Peopleitem
+          img="gharib.jpg"
+          name="Mohammad Reza Gharib"
+          grade="Assistant Professor"
+          email="m.gharib@torbath.ac.ir"
+          research="Modeling Systems, MEMS and NEMS Control, Robust control, Robotics"
+          linkedin="https://www.linkedin.com/in/mohammad-reza-gharib-04495b36/?originalSubdomain=ir"
+          blog="">
+
+        </Peopleitem>
+
+        <Peopleitem
+          img="koochi.jpg"
+          name="Ali Koochi"
+          grade="Assistant Professor"
+          email="a.koochi@torbath.ac.ir"
+          research="Dynamics, Micro and Nano Robotics"
+          linkedin="https://www.linkedin.com/in/ali-koochi/?originalSubdomain=ir"
+          blog="">
+
+        </Peopleitem>
+
+
+
+        <Peopleitem
+          img="gohari.jpg"
+          name="Masoud Goharimanesh"
+          grade="Assistant Professor"
+          email="m.goharimanesh@torbath.ac.ir"
+          research="Control, Robotics, Genetic Algorithm, Taguchi Method and Vehicle Modelling"
+          linkedin="https://www.linkedin.com/in/goharimanesh/"
+          blog="">
+
+        </Peopleitem>
+
+
+
+      </b-row>
+      <hr/>
+
       <b-row class="text-center my-4">
         <Peopleitem
           img="h-jafarzadeh.jpg"

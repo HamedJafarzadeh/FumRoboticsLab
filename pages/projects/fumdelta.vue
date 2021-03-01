@@ -12,7 +12,17 @@
       <br>
       <div class="row">
         <p> A parallel robot with three parallelogram arms for picking and packaging with high acceleration and speed capability. </p>
-        <div class="col-12 justify-content-center">
+
+      </div>
+
+      <div id="social-videos"; style="text-align: center">
+        <a  style= "font-size:20pt ; font:bolder; color: #EAD703; text-align: center; "  href="#social-videos"> Click here to watch the movie </a>
+
+      </div>
+
+      <br>
+      <br>
+        <div id="social-videos"; class="col-12 justify-content-center">
           <social-videos youtube-i-d="7TS7npC5ZZo" aparat-i-d="F0gy4"/>
           <br>
           <br>
@@ -25,7 +35,7 @@
 
 
 
-      </div>
+
 
 
 

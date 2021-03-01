@@ -14,7 +14,13 @@
         </div>
 
         </div>
-    <div class="col-12 justify-content-center">
+
+    <div id="social-videos"; style="text-align: center">
+      <a  style= "font-size:20pt ; font:bolder; color: #EAD703; text-align: center; "  href="#social-videos"> Click here to watch the movie </a>
+
+    </div>
+
+    <div id="social-videoos" class="col-12 justify-content-center">
       <br>
 
       <social-videos youtube-i-d="qjqbLBO0nkw" aparat-i-d="dnX7y"/>

@@ -33,13 +33,31 @@
       </div>
       <div class="row">
         <li>Applications: Pick and Place, Packaging, Welding </li>
+
+
       </div>
-<br>
       <br>
 
-      <a style="color: white; text-align: center"  href="#social-videos">Click here to watch movie</a>
 
-      <social-videos youtube-i-d="QDMqJOwbw1I" aparat-i-d="mGs03"/>
+      <div id="social-videos"; style="text-align: center">
+        <a  style= "font-size:20pt ; font:bolder; color: #EAD703; text-align: center; "  href="#social-videos"> Click here to watch the movie </a>
+
+      </div>
+      <br>
+      <br>
+
+
+
+      <br>
+      <br>
+
+      <div id="social-videos">
+
+        <social-videos youtube-i-d="QDMqJOwbw1I" aparat-i-d="mGs03"/>
+
+      </div>
+
+
 
       <div>
 <br>
