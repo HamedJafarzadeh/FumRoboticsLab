@@ -24,12 +24,12 @@
 
       <br>
       <br>
-      <div id="social-videos"; style="text-align: center">
-        <a  style= "font-size:20pt ; font:bolder; color: #EAD703; text-align: center; "  href="#social-videos"> Click here to watch the movie </a>
-
+      <div style="display: flex;justify-content: center" id="social-videos_link">
+        <a v-on:click="goToMovie" class="video-link">
+          Click here to watch the movie </a>
       </div>
 
-      <div id="social-videos"; class="col-lg-12">
+      <div id="social-videos" class="col-lg-12">
 
         <social-videos youtube-i-d="u1WJJyZP2lM" aparat-i-d="MYyI8"/>
         <br>
@@ -49,8 +49,17 @@
 </template>
 
 <script>
+import SocialVideos from "@/components/socialVideos";
 export default {
-name: "fumscara2"
+name: "fumscara2",
+  components: {
+    SocialVideos,
+  },
+  methods: {
+    goToMovie: function () {
+      document.getElementById("social-videos").scrollIntoView();
+    }
+  }
 }
 </script>
 

@@ -2750,3 +2750,15 @@ body.is-touch #banner {
 #logo {
   margin-top: 10px
 }
+
+
+.video-link {
+  cursor: pointer;
+  font-size: 20pt;
+  font-weight: bold;
+  color: #EAD703;
+  text-align: center;
+}
+.video-link:hover{
+  color: #EAD703 !important;
+}
