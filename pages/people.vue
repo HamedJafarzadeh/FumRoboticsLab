@@ -228,7 +228,7 @@
         Power Electronics, Electrical Machine Design" linkedin="https://www.linkedin.com/in/soroush-atashin-0a02b9125/">
         </Peopleitem>
 
-        <Peopleitem img="forutan.jpg" name="Ali Forutanian" grade="M.Sc Student" email="aliforoutanni@gmail.com"
+        <Peopleitem img="forutan.jpg" name="Ali Foroutannia" grade="M.Sc Student" email="aliforoutanni@gmail.com"
                     research=" Neuroimaging, Brain Connectivity,
         Cognitive Process, Brain Functional
             Modelling, linguistics Processing, Biomedical Signal Processing, Complex Systems, Nonlinear Dynamics,
@@ -295,7 +295,7 @@
 Control Drive" linkedin="https://www.linkedin.com/in/amirmohammadzadeh-2792841b7/">
         </Peopleitem>
 
-        <Peopleitem img="Kazemi.jpg" name="Mahdi KazemiEsfahani" grade="B.Sc Student"
+        <Peopleitem img="Kazemi.jpg" name="Mahdi Kazemi Esfahani" grade="B.Sc Student"
                     email="m.kazemiesfahani@mail.um.ac.ir" research="  Autonomous Robots, Human-Robot Interaction,
 Vibration, Automation and Control, Machine Learning, Machine Vision, Deep Learning" linkedin="https://www.linkedin.com/in/mahdi-kazemi-esfahani/">
         </Peopleitem>
@@ -313,10 +313,27 @@ Vibration, Automation and Control, Machine Learning, Machine Vision, Deep Learni
          Fuzzy Control , Natural language processing, Data science" linkedin="https://www.linkedin.com/in/nazari-amirhossein">
         </Peopleitem>
 
+        <Peopleitem img="vafadar.jpg" name="Danial Vafadar" grade="M.Sc Student" email="daniel.vafadar@gmail.com" research="Deep Neural Network - Machine Vision
+        - Image Processing" linkedin="https://www.linkedin.com/in/danial-vafadar/">
+        </Peopleitem>
+
 
 
       </div>
       <hr/>
+
+      <div class="row text-center my-4">
+
+
+        <Peopleitem img="zohor.jpg" name="Mohammad Zohoor" grade="B.Sc Student" email="daniel.vafadar@gmail.com" research="Biomechanics, Vibration, Design of elements,
+         FEM" linkedin="https://www.linkedin.com/in/mohammad-zohoor-211a64208">
+        </Peopleitem>
+
+
+
+      </div>
+      <hr/>
+
       <b-row>
         <b-col class="text-center">
           <h2>Alumni</h2>

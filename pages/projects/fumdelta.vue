@@ -15,14 +15,14 @@
 
       </div>
 
-      <div id="social-videos"; style="text-align: center">
-        <a  style= "font-size:20pt ; font:bolder; color: #EAD703; text-align: center; "  href="#social-videos"> Click here to watch the movie </a>
-
+      <div style="display: flex;justify-content: center" id="social-videos_link">
+        <a v-on:click="goToMovie" class="video-link">
+          Click here to watch the movie </a>
       </div>
 
       <br>
       <br>
-        <div id="social-videos"; class="col-12 justify-content-center">
+        <div id="social-videos" class="col-12 justify-content-center">
           <social-videos youtube-i-d="7TS7npC5ZZo" aparat-i-d="F0gy4"/>
           <br>
           <br>
@@ -49,8 +49,17 @@
 </template>
 
 <script>
+import SocialVideos from "@/components/socialVideos";
 export default {
-name: "Delta"
+name: "Delta",
+  components: {
+    SocialVideos,
+  },
+  methods: {
+    goToMovie: function () {
+      document.getElementById("social-videos").scrollIntoView();
+    }
+  }
 }
 </script>
 
