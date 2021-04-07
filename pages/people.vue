@@ -325,7 +325,7 @@ Vibration, Automation and Control, Machine Learning, Machine Vision, Deep Learni
       <div class="row text-center my-4">
 
 
-        <Peopleitem img="zohor.jpg" name="Mohammad Zohoor" grade="B.Sc Student" email="daniel.vafadar@gmail.com" research="Biomechanics, Vibration, Design of elements,
+        <Peopleitem img="zohor.jpg" name="Mohammad Zohoor" grade="B.Sc Student" email="M.zohoor@mail.um.ac.ir" research="Biomechanics, Vibration, Design of elements,
          FEM" linkedin="https://www.linkedin.com/in/mohammad-zohoor-211a64208">
         </Peopleitem>
 
