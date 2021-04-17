@@ -166,10 +166,31 @@
          Vision, Programming, Control, Advanced Robotics" linkedin="https://www.linkedin.com/in/amir-hossein-zare-a0329014a/">
         </Peopleitem>
 
+        <Peopleitem img="basiti.jpg" name="Sadegh Basiti" grade="Ph.D Student" email="basiti.sadegh@gmail.com"
+                    research="  Robotics, Robot Calibration,  Dynamics, Trajectory Generation,
+                    Vibration, Industrial Robots , Taguchi Robust  Design and Optimization" linkedin="https://www.linkedin.com/in/sadegh-basiti-a0339b9a/">
+        </Peopleitem>
+
 
 
       </div>
       <hr/>
+
+
+      <div class="row text-center my-4">
+
+        <Peopleitem img="Ghanaei.jpg" name="Mohsen Ghanaei" grade="M.Sc Student"
+                    email="mghanaei73@gmail.com " research="  Robotics, Mechanical Design,
+                    Biomechanics, Impedance Control, Machine Learning, Autonomous and Industrial Manipulation" linkedin="https://www.linkedin.com/in/mohammad-malek-392ba786/">
+        </Peopleitem>
+
+
+
+
+      </div>
+      <hr/>
+
+
 
       <div class="row text-center my-4">
 
@@ -327,6 +348,10 @@ Vibration, Automation and Control, Machine Learning, Machine Vision, Deep Learni
 
         <Peopleitem img="zohor.jpg" name="Mohammad Zohoor" grade="B.Sc Student" email="M.zohoor@mail.um.ac.ir" research="Biomechanics, Vibration, Design of elements,
          FEM" linkedin="https://www.linkedin.com/in/mohammad-zohoor-211a64208">
+        </Peopleitem>
+
+        <Peopleitem img="fallah.jpg" name="Mohammad Hossein Fallahi" grade="B.Sc Student" email="mhoseinfalahy@gmail.com" research="Automation and Control, Dynamics, Human-Robot Interaction,
+        Mechanical Design, Machine Learning, Machine Vision" linkedin="https://www.linkedin.com/in/hossein-fallahi/">
         </Peopleitem>
 
 
@@ -516,6 +541,17 @@ Computer Vision, Machine Learning, Self Driving Cars" linkedin="https://www.link
         </Peopleitem>
 
         <Peopleitem
+          img="bangash.jpg"
+          name="Ghazal Bangash"
+          grade="B.Sc Student"
+          email="ghazal.bangash@gmail.com"
+          research="machine learning, computer vision, robotics, Electronic Circuit Design, reinforcement learning"
+          linkedin="https://www.linkedin.com/in/ghazal-bangash-931313137/">
+        </Peopleitem>
+
+
+
+        <Peopleitem
           img="javad.jpg"
           name="Javad Mahdavian"
           grade="B.Sc Student"
@@ -523,6 +559,14 @@ Computer Vision, Machine Learning, Self Driving Cars" linkedin="https://www.link
           research="windows desktop developer , Software Developer , Cloud interest"
           linkedin="https://www.linkedin.com/in/javad-mahdavian/">
         </Peopleitem>
+
+
+
+
+      </b-row>
+
+      <hr/>
+      <b-row class="text-center">
 
         <Peopleitem
           img="ehsanshaghaei.jpg"
@@ -534,10 +578,6 @@ Computer Vision, Machine Learning, Self Driving Cars" linkedin="https://www.link
         </Peopleitem>
 
 
-      </b-row>
-
-      <hr/>
-      <b-row class="text-center">
         <Peopleitem
           img="rezaei.jpg"
           name="Moein Rezaei"
