@@ -179,9 +179,19 @@
 
       <div class="row text-center my-4">
 
+        <Peopleitem img="rafiei.jpg" name="Hamed Rafiei" grade="Ph.D Student"
+                    email="rafiei.hamed@um.ac.ir" research="  Deep Reinforcement learning, Generative models, Deep Learning, Fuzzy Control, Neural Network Control, System Identication, Nonlinear Control, Adaptive Control, Evolutionary Algorithm, Generative Adversarial Network,
+                    Signal and Image Processing, Complex-valued Neural Network, Robotics, Brain Computer Interface" linkedin="linkedin.com/in/hamedrafiei-94b949186">
+        </Peopleitem>
+
+
         <Peopleitem img="Ghanaei.jpg" name="Mohsen Ghanaei" grade="M.Sc Student"
                     email="mghanaei73@gmail.com " research="  Robotics, Mechanical Design,
-                    Biomechanics, Impedance Control, Machine Learning, Autonomous and Industrial Manipulation" linkedin="https://www.linkedin.com/in/mohammad-malek-392ba786/">
+                    Biomechanics, Impedance Control, Machine Learning, Autonomous and Industrial Manipulation" linkedin="https://www.linkedin.com/in/mohsen-ghanaei-85a78a20b/?originalSubdomain=ir">
+        </Peopleitem>
+        <Peopleitem img="Amin-Hoseini.jpg" name="Amin Hoseini" grade="M.Sc Student"
+                    email="amn.hseini@gmail.com " research="  Medical and Rehabilitation Robotics, Industrial Robotics,
+                    Mechanical Design of Machinery and Industrial Robots, Soft Robotics" linkedin="https://www.linkedin.com/in/amin-hoseini/">
         </Peopleitem>
 
 
@@ -307,7 +317,7 @@
       <hr/>
       <div class="row text-center my-4">
 
-        <Peopleitem img="kohandel.jpg" name="Reza Kohandel" grade="M.Sc Student" email="rezakohandel9@gmail.com"
+        <Peopleitem img="kohandel.jpg" name="Reza Kohandel" grade="B.Sc Student" email="rezakohandel9@gmail.com"
                     research="  Medical Instruments, Microelectronics, Signal Processing" linkedin="https://www.linkedin.com/in/rezakohandel/">
         </Peopleitem>
 
