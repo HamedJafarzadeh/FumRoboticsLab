@@ -3,12 +3,21 @@
     <span id="logospan"><nuxt-link to="/"><img id="logo" src="~/assets/fum-logo.png" height="30px"/></nuxt-link></span>
     <nav id="nav">
       <ul>
-        <li><nuxt-link to="/#banner">Home</nuxt-link></li>
-        <li><nuxt-link to="/#about" class="scrolly">About</nuxt-link></li>
-        <li><nuxt-link to="/#projects" class="scrolly">Projects</nuxt-link></li>
-        <li><nuxt-link to="/#researchtopics" class="scrolly">Research topics</nuxt-link></li>
-        <li><nuxt-link to="/#publications" class="scrolly">Publications</nuxt-link></li>
-        <li><nuxt-link to="/people" class="scrolly">People</nuxt-link></li>
+        <li>
+          <nuxt-link to="/#banner">Home</nuxt-link>
+        </li>
+        <li>
+          <a v-on:click="goToAbout()" href="/#about" class="scrolly">About</a>
+        </li>
+        <li>
+          <a v-on:click="goToresearchtopics()" href="/#researchtopics" class="scrolly">Research Topics</a>
+        </li>
+        <li>
+          <a v-on:click="goTopublications()" href="/#publication"  class="scrolly">Publications</a>
+        </li>
+        <li>
+          <nuxt-link to="/people" class="scrolly">People</nuxt-link>
+        </li>
         <li><a href="/join" class="button primary scrolly">Join Us</a></li>
       </ul>
     </nav>
@@ -17,7 +26,21 @@
 
 <script>
 export default {
-name: "HeaderSection"
+  name: "HeaderSection",
+  methods: {
+    goTopublications() {
+      document.getElementById('publications').scrollIntoView({behavior: "smooth"})
+
+    },
+
+    goToAbout() {
+      document.getElementById('about').scrollIntoView({behavior: "smooth"})
+
+    },
+    goToresearchtopics(){
+      document.getElementById('researchtopics').scrollIntoView({behavior: "smooth"})
+    }
+  }
 }
 </script>
 
