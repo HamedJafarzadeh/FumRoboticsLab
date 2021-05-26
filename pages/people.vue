@@ -42,7 +42,7 @@
 
         <Peopleitem
             img="mohammadreza_akbarzadeh.jpg"
-            name="Mohammadreza Akbarzadeh Tootoonchi"
+            name="Mohammadreza Akbarzadeh"
             grade="Professor"
             email="akbarzadeh@ieee.org"
             research="Fuzzy Logic, Artificial Inteligence, Soft Computing, Complex Systems,
@@ -169,6 +169,23 @@
         <Peopleitem img="basiti.jpg" name="Sadegh Basiti" grade="Ph.D Student" email="basiti.sadegh@gmail.com"
                     research="  Robotics, Robot Calibration,  Dynamics, Trajectory Generation,
                     Vibration, Industrial Robots , Taguchi Robust  Design and Optimization" linkedin="https://www.linkedin.com/in/sadegh-basiti-a0339b9a/">
+        </Peopleitem>
+
+
+
+      </div>
+
+      <hr/>
+
+      <div class="row text-center my-4">
+
+        <Peopleitem img="vafadar.jpg" name="Danial Vafadar" grade="M.Sc Student" email="daniel.vafadar@gmail.com" research="Deep Neural Network - Machine Vision
+        - Image Processing" linkedin="https://www.linkedin.com/in/danial-vafadar/">
+        </Peopleitem>
+
+        <Peopleitem img="ebrahimi.jpg" name="Amirali Ebrahimi" grade="M.Sc Student" email="amir.ali.ebrahimi@outlook.com"
+                    research="  Embedded systems, Industrial Automation, Internet of Things,
+                     Neural Networks on Hardware" linkedin="https://www.linkedin.com/in/amirali-ebrahimi-465539141/">
         </Peopleitem>
 
 
@@ -387,13 +404,15 @@ Vibration, Automation and Control, Machine Learning, Machine Vision, Deep Learni
         </Peopleitem>
 
         <Peopleitem
-          img="koochi.jpg"
-          name="Ali Koochi"
-          grade="Assistant Professor"
-          email="a.koochi@torbath.ac.ir"
-          research="Dynamics, Micro and Nano Robotics"
-          linkedin="https://www.linkedin.com/in/ali-koochi/?originalSubdomain=ir"
-          blog="">
+          img="h-jafarzadeh.jpg"
+          name="Hamed Jafarzadeh"
+          grade="M.Res.Sc Student"
+          email="hamed.jafarzadeh@tyndall.ie"
+          research="Electronics, Software, Miniatruized Devices, Mobile Robots, Robotic
+            Control, Biomedical Devices"
+          linkedin="https://www.linkedin.com/in/hjafarzadeh/"
+          google="http://hamedj.ir"
+          blog="http://hamedj.ir">
 
         </Peopleitem>
 
@@ -416,18 +435,7 @@ Vibration, Automation and Control, Machine Learning, Machine Vision, Deep Learni
       <hr/>
 
       <b-row class="text-center my-4">
-        <Peopleitem
-          img="h-jafarzadeh.jpg"
-          name="Hamed Jafarzadeh"
-          grade="M.Res.Sc Student"
-          email="hamed.jafarzadeh@tyndall.ie"
-          research="Electronics, Software, Miniatruized Devices, Mobile Robots, Robotic
-            Control, Biomedical Devices"
-          linkedin="https://www.linkedin.com/in/hjafarzadeh/"
-          google="http://hamedj.ir"
-          blog="http://hamedj.ir">
 
-        </Peopleitem>
 
         <Peopleitem img="rahman.jpg" name="Rahman Ardakanian" grade="Ph.D Student"
                     email="rahman.ardakanian@mail.um.ac.ir " research="  Industrial and Medical Robots,

@@ -38,43 +38,7 @@
 
 
     <!-- Four -->
-    <section id="researchtopics" class="wrapper style1 special fade-up">
-      <div class="container">
-        <header class="major">
-          <h2>Research Topics</h2>
-        </header>
-        <div class="box alt">
-          <div class="row gtr-uniform">
-           <section class="col-4 col-6-medium col-12-xsmall">
-               <img class="icon solid alt major solid" style="filter: invert();" src="~/assets/icons/dynamic.png"/>
-             <h3>Robot Dynamics</h3>
-            </section>
-            <section class="col-4 col-6-medium col-12-xsmall">
-              <img class="icon solid alt major solid" style="filter: invert();" src="~/assets/icons/control.png"/>
-              <h3>Robot Control</h3>
-            </section>
-            <section class="col-4 col-6-medium col-12-xsmall">
-              <img class="icon solid alt major solid" style="filter: invert();" src="~/assets/icons/design.png"/>
-              <h3>Robot Mechanical & Structural Design</h3>
-            </section>
-            <section class="col-4 col-6-medium col-12-xsmall">
-              <img class="icon solid alt major solid" style="filter: invert();" src="~/assets/icons/sensor.png"/>
-              <h3>Sensor Development & Fusion</h3>
-            </section>
-            <section class="col-4 col-6-medium col-12-xsmall">
-              <img class="icon solid alt major solid" style="filter: invert();" src="~/assets/icons/rehab.png"/>
-              <h3>Robotic Rehabilitation & Assistive Strategies</h3>
-            </section>
-            <section class="col-4 col-6-medium col-12-xsmall">
-              <img class="icon solid alt major solid" style="filter: invert();" src="~/assets/icons/power.png"/>
-              <h3>Robotic Power Electronic</h3>
 
-            </section>
-          </div>
-        </div>
-
-      </div>
-    </section>
 
     <!-- Five -->
     <section id="publications" class="wrapper style2 special fade-up  ">
@@ -118,7 +82,6 @@
                    and <a style="color: white;  font-weight: bold"  href="https://scholar.google.com/citations?user=2gfJ9aAAAAAJ&hl=en">
                     Iman Kardan </a>
                 </p>
-
               </ul>
             </div>
           </div>
