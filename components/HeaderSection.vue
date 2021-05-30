@@ -10,10 +10,10 @@
           <a v-on:click="goToAbout()" href="/#about" class="scrolly">About</a>
         </li>
         <li>
-          <a v-on:click="goToresearchtopics()" href="/#researchtopics" class="scrolly">Research Topics</a>
+          <a v-on:click="goToResearchTopics()" href="/#researchtopics" class="scrolly">Research Topics</a>
         </li>
         <li>
-          <a v-on:click="goTopublications()" href="/#publication"  class="scrolly">Publications</a>
+          <a v-on:click="goToPublications()" href="/#publication"  class="scrolly">Publications</a>
         </li>
         <li>
           <nuxt-link to="/people" class="scrolly">People</nuxt-link>
@@ -28,7 +28,7 @@
 export default {
   name: "HeaderSection",
   methods: {
-    goTopublications() {
+    goToPublications() {
       document.getElementById('publications').scrollIntoView({behavior: "smooth"})
 
     },
@@ -37,7 +37,7 @@ export default {
       document.getElementById('about').scrollIntoView({behavior: "smooth"})
 
     },
-    goToresearchtopics(){
+    goToResearchTopics(){
       document.getElementById('researchtopics').scrollIntoView({behavior: "smooth"})
     }
   }

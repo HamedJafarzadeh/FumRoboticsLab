@@ -1,5 +1,5 @@
 <template>
-  <div id="page-wrapper" style="width: 99%">
+  <div id="page-wrapper" style="width: 100%">
 
     <FirstSection/>
 
