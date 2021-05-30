@@ -3,7 +3,7 @@
     <b-row class="text-center hjTabsHeader">
       <b-col>Research Topics</b-col>
     </b-row>
-    <b-row class="text-center justify-content-center no-gutters">
+    <b-row class="text-center justify-content-center no-gutters main-menu">
       <a class="col-lg-2 col-md-3 hjtabsTitle" :class="{selected:assistiveRobots}" v-on:click="tabClick('assistive')">Assistive and rehabilitation</a>
       <a class="col-lg-2 col-md-3 hjtabsTitle" :class="{selected:bioRobots}" v-on:click="tabClick('bio')" >Bio Robots</a>
       <a class="col-lg-2 col-md-3 hjtabsTitle" :class="{selected:industrialRobots}" v-on:click="tabClick('industrial')">Industrial Robots</a>
@@ -224,5 +224,9 @@ export default {
 </script>
 
 <style scoped>
+.main-menu{
+  background-color: #35495e;
+}
 
 </style>
+
