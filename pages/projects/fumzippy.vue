@@ -22,41 +22,19 @@
         </li>
       </div>
       <br>
-      <div style="display: flex;justify-content: center" id="social-videos_link">
-        <a v-on:click="goToMovie" class="video-link">
-          Click here to watch the movie </a>
-      </div>
 
-      <br>
-      <br>
-      <br>
-      <br>
 
-      <div id="social-videos" class="col-lg-12">
+
+      <div id="social-videos"  class="col-12 justify-content-center" style="width: 700px; margin: auto">
 <br>
         <br>
 
         <social-videos youtube-i-d="1U_nB2uP1Uc" aparat-i-d="K58Gn"/>
         <br>
         <br>
-
-      </div>
-      <div class="col-lg-12">
-
         <social-videos youtube-i-d="FRAvAUU38Qs" aparat-i-d="0YjnP"/>
-        <br>
-        <br>
 
       </div>
-
-
-
-
-
-      <br>
-      <br>
-      <br>
-
 
 
     </div>
@@ -73,8 +51,18 @@ name: "fumzippy",
   methods: {
     goToMovie: function () {
       document.getElementById("social-videos").scrollIntoView();
-    }
+    },
+  },
+mounted() {
+  if (this.$route.query['watch-movie'] === '1') {
+    setTimeout(() => {
+      document.getElementById("social-videos")?.scrollIntoView({behavior: "smooth"});
+    },30)
+
+  } else {
+    window.scroll(0, 0)
   }
+},
 }
 </script>
 

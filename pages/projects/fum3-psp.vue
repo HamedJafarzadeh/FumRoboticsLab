@@ -16,21 +16,13 @@
       </div>
 
     </div>
-
-
-
-
-    <div style="display: flex;justify-content: center" id="social-videos_link">
-      <a v-on:click="goToMovie" class="video-link">
-        Click here to watch the movie </a>
-    </div>
     <br>
     <br>
 
-    <div id="social-videos" class="col-12 justify-content-center">
+    <div id="social-videos" class="col-12 justify-content-center" style="width: 700px; margin: auto">
       <br>
 
-      <social-videos youtube-i-d="qjqbLBO0nkw" aparat-i-d="dnX7y"/>
+      <social-videos id="test" youtube-i-d="qjqbLBO0nkw" aparat-i-d="dnX7y"/>
       <br>
       <br>
     </div>
@@ -44,14 +36,25 @@ import SocialVideos from "@/components/socialVideos";
 
 export default {
   name: "fum3-psp",
+  scrollToTop: false,
   components: {
     SocialVideos,
   },
   methods: {
     goToMovie: function () {
-      document.getElementById("social-videos").scrollIntoView();
+      document.getElementById("social-videos")?.scrollIntoView();
+    },
+  },
+  mounted() {
+    if (this.$route.query['watch-movie'] === '1') {
+      setTimeout(() => {
+        document.getElementById("social-videos")?.scrollIntoView({behavior: "smooth"});
+      },30)
+
+    } else {
+      window.scroll(0, 0)
     }
-  }
+  },
 }
 </script>
 

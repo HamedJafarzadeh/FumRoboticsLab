@@ -14,7 +14,19 @@
     <div style="height: 1vh"/>
     <div class="hjtabgroups" v-show="assistiveRobots">
       <IndexProjectItem  :is-right="true" project-name="FUM ExoSkeleton - II"  project-subtitle="" project-link="/fumexoskeleton2" project-picture="exo2.png" >
-        Double joint Light weight Lower limb exoskeleton for rehabilitation
+
+          <li>Enabling paraplegics to stand up and walk autonomously</li>
+        <li>Extensive sensor usage and an advanced control system
+        <li>A modular design allowing the user to independently put on
+          and remove each piece
+        </li>
+        <li> Weight is lee than 22 kg </li>
+        <li>Max speed of 0.5m/s </li>
+        <li>Adjustable for different size users </li>
+        <li>Battery Life on a single charge, 2 hours continuously walk
+          or 8 hours intermittently
+        </li>
+        <li>Can comfortably be worn while seated in a wheelchair </li>
       </IndexProjectItem>
       <IndexProjectItem :is-right="false" project-name="FUM Exoskeleton - I"  project-subtitle="" project-link="/fumexoskeleton1" project-picture="exo1p.png">
         a hard, laminated plastic shell that provides the weight-bearing support. Most countries report a rapid increase in ageing population worldwide. Elderly people normally have physical deterioration and frailty, imposing a heavy burden on the social health care system. In addition, each year, approximately 15 million people suffer from a stroke worldwide and 5 million of these individuals are left with a permanent disability.
@@ -26,8 +38,11 @@
         Supporting ambulatory functions in the elderly or patients with gait impairment Hip Exoskeleton for Assistance (HEXA) is a wearable robotic system for assistive technology and rehabilitation engineering, primarily developed to help patients with lower limb disabilities to restore or improve their walking ability. The robot consists of two 70 BLDC with Harmonic Drive gearbox, each for either hip; driving the two metal links which are placed parallel to the human thigh and fastened with Velcro straps. HEXA assists disabled people regain their locomotion with significant reduction of the therapists’ physical burden.
       </IndexProjectItem>
       <IndexProjectItem :is-right="false" project-name="FUM Knee Exoskeleton"  project-subtitle="" project-link="/fumkneeexoskeleton" project-picture="fumkneeExo.jpg">
-        Series elastic actuator based knee orthosis Built in SEA actuator and high stiffness. Its open control architecture is
-        ideal for research applications
+        <li>Ability to carry human weight</li>
+        <li>Can be equipped by EMG signals
+        <li>Built in SEA actuator and high stiffness. Its open control architecture is
+          ideal for research applications
+        </li>
       </IndexProjectItem>
       <IndexProjectItem :is-right="true" project-name="FUM Knee Physio"  project-subtitle="" project-link="/fumkneephysio" project-picture="Physio.png">
         Knee rehabilitation enabling game based therapy One specific area in medical robotics is joint rehabilitation. Knee rehabilitation therapy is a very important procedure to recover function after knee injury or surgery. The treatment objective is to reduce knee adhesion and regain adequate joint motion and flexibility. The key to successful knee rehabilitation requires regular exercises in a very controlled manner. Along this lines, 1DOF Lower-limb rehabilitation robot has been designed and constructed at FUM Robotics lab. Capable of using EMG signals, a variety of cognitive games can be employed and integrated with the system to assist the therapist in adjusting the rehabilitation process according to the medical progress of the user.
@@ -56,6 +71,13 @@
 
       <IndexProjectItem :is-right="true" project-name="FUM Bionic Hand L-I"  project-subtitle="" project-link="/fumbionichand-L1" project-picture="FUMbionichandL1.png">
         7 DoF bionic hand prosthetic with independent finger manipulation
+        <li>7DOF (includes wrist movement) - 5motors </li>
+        <li>5 motors with Worm gear </li>
+        <li>Ability to absorb collision forces</li>
+        <li>Independent Finger Control</li>
+        <li>Uses EMG signals for activation-force feedback sensor</li>
+        <li>Designed for daily tasks</li>
+
       </IndexProjectItem>
     </div>
 

@@ -42,31 +42,24 @@
       <br>
 
 
-      <div style="display: flex;justify-content: center" id="social-videos_link">
-        <a v-on:click="goToMovie" class="video-link">
-          Click here to watch the movie </a>
-      </div>
-      <br>
-      <br>
 
 
-      <br>
-      <br>
 
-      <sections id="social-videos">
+      <div id="social-videos">
 
         <social-videos youtube-i-d="QDMqJOwbw1I" aparat-i-d="mGs03"/>
 
-      </sections>
-
-
-      <div>
         <br>
         <br>
         <br>
         <social-videos youtube-i-d="6Oh_8KpcdRo" aparat-i-d="k9nhN"/>
 
       </div>
+
+
+
+
+
 
       <br>
       <br>
@@ -80,14 +73,25 @@ import SocialVideos from "@/components/socialVideos";
 
 export default {
   name: "fum6r",
+  scrollToTop: false,
   components: {
     SocialVideos,
   },
   methods: {
     goToMovie: function () {
       document.getElementById("social-videos").scrollIntoView();
+    },
+  },
+  mounted() {
+    if (this.$route.query['watch-movie'] === '1') {
+      setTimeout(() => {
+        document.getElementById("social-videos")?.scrollIntoView({behavior: "smooth"});
+      },30)
+
+    } else {
+      window.scroll(0, 0)
     }
-  }
+  },
 }
 </script>
 

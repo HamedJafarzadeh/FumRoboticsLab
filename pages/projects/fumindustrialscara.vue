@@ -38,34 +38,26 @@
     <br>
     <br>
 
-    <div style="display: flex;justify-content: center" id="social-videos_link">
-      <a v-on:click="goToMovie" class="video-link">
-        Click here to watch the movie </a>
-    </div>
 
 
-    <div id="social-videos";  class="col-lg-12">
-      <social-videos youtube-i-d="GxXFAnqObPk" aparat-i-d="taTdj"/>
 
-
+    <div id="social-videos"  class="col-12 justify-content-center" style="width: 700px; margin: auto">
       <br>
-
-    </div>
-
-
-    <div id="social-videos"; class="col-lg-12">
-
+      <br>
       <social-videos youtube-i-d="265jkRlHiVY" aparat-i-d="2P35d"/>
       <br>
       <br>
+      <social-videos youtube-i-d="wMIIXDEp1hQ" aparat-i-d="uGXtq"/>
+
+
+      <br>
 
     </div>
 
-    <div class="col-lg-12">
 
-      <social-videos youtube-i-d="wMIIXDEp1hQ" aparat-i-d="uGXtq"/>
-      <br>
-      <br>
+
+
+
 
     </div>
 
@@ -76,14 +68,25 @@
 import SocialVideos from "@/components/socialVideos";
 export default {
 name: "fumindustrialscara",
+  scrollToTop: false,
   components: {
     SocialVideos,
   },
   methods: {
     goToMovie: function () {
       document.getElementById("social-videos").scrollIntoView();
+    },
+  },
+  mounted() {
+    if (this.$route.query['watch-movie'] === '1') {
+      setTimeout(() => {
+        document.getElementById("social-videos")?.scrollIntoView({behavior: "smooth"});
+      },30)
+
+    } else {
+      window.scroll(0, 0)
     }
-  }
+  },
 }
 </script>
 
