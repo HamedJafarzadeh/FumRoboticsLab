@@ -1550,7 +1550,7 @@ input[type="button"]:disabled,
   background-position: center center;
   background-size: cover;
   box-shadow: 0 0.25em 0.5em 0 rgba(0, 0, 0, 0.25);
-  height: 75vh;
+  height: 1316px;
   overflow: hidden;
   position: relative;
 }
@@ -1780,7 +1780,7 @@ body.is-touch .spotlight {
 }
 
 .wrapper.style2 {
-  background: #117267;
+  background: #oc243c;
 }
 .wrapper.style2 input[type="text"]:focus,
 .wrapper.style2 input[type="password"]:focus,
@@ -2690,31 +2690,34 @@ body.is-touch #banner {
 
 .hjprojectssection{
   overflow: hidden;
-  box-shadow: 0 0.25em 0.5em 0 rgba(0,0,0,.25)
+  box-shadow: 0 0.25em 0.5em 0 rgba(0,0,0,.25);
+  height: auto !important;
+
+  background: linear-gradient(180deg,transparent,#3a3835);
+}
+.section-gradient{
+  max-width: 1500px;
+  margin: auto;
 }
 
 .hj_projectDescBox{
   padding-bottom: 10vh;
-  background-color: rgba(23,24,32,.95);
 }
 .hj_projectDescBox_description{
   overflow: hidden;
 }
 .hj_projectDescBox.right{
-  border-color: #5480f1;
-  border-style: solid;
-  border-right-width: 0.35em;
+
 }
 .hj_projectDescBox.left{
-  border-color: #39c088;
-  border-style: solid;
-  border-left-width: 0.35em;
+
 }
 .hj_projectImage{
-  height: 85vh;
+  height: auto;
   max-height: 100%;
-  background-repeat: no-repeat;
-  background-position: center; background-size: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 .hj_projectImage.cover{
   background-size: cover;

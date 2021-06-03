@@ -10,7 +10,7 @@
         </div>
       </div>
       <div class="row">
-        <p style="text-align: justify"> The FUM 3-RRS spatial parallel robot composed of a base platform, a
+        <p style="text-align: justify">The FUM 3-RRS spatial parallel robot composed of a base platform, a
           movable platform and three connecting legs. Each leg
           contains two links, and a succession of revolute, revolute and spherical joints. The two axes of revolute joints on
           each leg parallel each other and are perpendicular to the
