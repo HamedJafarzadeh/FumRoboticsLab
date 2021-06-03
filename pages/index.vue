@@ -14,7 +14,6 @@
             <div class="col-lg-3 col-lg-12 p-0">
               <header>
                 <h3 style="font-weight: bold; font-size: x-large">About us</h3>
-                <p style="font-size: large">Ferdowsi University of Mashhad Robotic Labratory</p>
               </header>
             </div>
             <div class="col-lg-9 col-lg-12">
