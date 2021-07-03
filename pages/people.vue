@@ -453,6 +453,17 @@ Vibration, Automation and Control, Machine Learning, Machine Vision, Deep Learni
         </Peopleitem>
 
 
+        <Peopleitem
+          img="tehrani.jpg"
+          name="Amir Gholamhossein Tehrani"
+          grade="M.Sc Student"
+          email="amir.gh.tehrani@gmail.com"
+          research="Robot Synthesis, Dynamics and Optimization, Industrial Design and Manufacturing,
+          Human-Robot Interaction, Rehabilitation Robot, Healthcare Robotics, Artificial Intelligence, Machine Leering"
+          linkedin="https://www.linkedin.com/in/amir-tehrani-94423055/">
+        </Peopleitem>
+
+
 
       </b-row>
       <hr/>
