@@ -188,6 +188,10 @@
                      Neural Networks on Hardware" linkedin="https://www.linkedin.com/in/amirali-ebrahimi-465539141/">
         </Peopleitem>
 
+        <Peopleitem img="vahdani.jpg" name="Saeed Vahdani" grade="M.Sc Student" email="vahdani@mail.um.ac.ir"
+                    research=" Rehabilitation Robotics, Deep Learning, Artificial Intelligence, Bio-signal Based Control in Exoskeleton Robots" linkedin="https://www.linkedin.com/in/saeedvahdani/"
+                    blog="https://vahdani.student.um.ac.ir/">
+        </Peopleitem>
 
 
       </div>
