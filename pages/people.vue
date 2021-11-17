@@ -628,7 +628,7 @@ Computer Vision, Machine Learning, Self Driving Cars" linkedin="https://www.link
           grade="B.Sc Student"
           email="ali.tohidi2011@gmail.com"
           research="Electronics and Hardware engineer, Control Systems, Biomedical, Robotics"
-          linkedin="www.linkedin.com/in/ali-tohidi-moghaddam">
+          linkedin="https://www.linkedin.com/in/ali-tohidi-moghaddam">
         </Peopleitem>
 
 
