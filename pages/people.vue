@@ -620,6 +620,30 @@ Computer Vision, Machine Learning, Self Driving Cars" linkedin="https://www.link
                       Game Development"
           linkedin="https://www.linkedin.com/in/moeen-rezaei/">
         </Peopleitem>
+
+
+        <Peopleitem
+          img="AliTohidi.jpg"
+          name="Ali Tohidi"
+          grade="B.Sc Student"
+          email="ali.tohidi2011@gmail.com"
+          research="Electronics and Hardware engineer, Control Systems, Biomedical, Robotics"
+          linkedin="www.linkedin.com/in/ali-tohidi-moghaddam">
+        </Peopleitem>
+
+
+      </b-row>
+
+      <b-row class="text-center">
+        <Peopleitem
+          img="MRanjbar.jpg"
+          name="Mohammad Reza Ranjbar"
+          grade="M.Sc student"
+          email="mrr.ranjbar@gmail.com"
+          research="UAV Path Planning, Computational Geometry, Robot Controller , Trajectory Generation, Design Algorithm, Industrial Robots"
+          linkedin="https://www.linkedin.com/in/mohammad-reza-ranjbar-45a568ab">
+        </Peopleitem>
+
       </b-row>
 
 
